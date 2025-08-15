@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screening Check</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Title -->
+    <h2>Sanction & PEP Screening Check</h2>
+
+    <!-- 1st Form -->
+    <form action="" class="form1" novalidate>
+        <!-- Radio buttons for selection -->
+        <section class="look-up-by">
+            <div class="radio-btn">
+                <input type="radio" name="identity" value="Name" id="name">
+                <label for="name">Name</label>
+            </div>
+            <section class="radio-btn">
+                <input type="radio" name="identity" value="Identity Number" id="identity-number">
+                <label for="identity-number">Identity Number</label>
+            </section>
+        </section>
+
+        <!-- Input fields - should depend on the radio button user clicks -->
+        <section class="input-field" id="input-name">
+            <label for="full-name">Full Name</label>
+            <input type="text" placeholder="Enter Full Name" name="full-name" id="full-name" required>
+        </section>
+        <!-- Add an error handling for when user does not fill in requirements -->
+        <section class="input-field" id="input-id">
+            <label for="identity-number">Identity Number</label>
+            <input type="text" placeholder="Enter Identity Number" name="identity-number" id="identity-number" required>
+        </section>
+
+        <!-- Checkbox to activate another form -->
+        <section class="add-more">
+            <input type="checkbox" name="more-info" id="more-info">
+            <label for="more-info">Add more information for precise results</label>
+        </section>
+    </form>
+
+    <!-- 2nd form for name (if checkbox is clicked) -->
+    <form action="" id="look-up-by-name">
+        <section class="input-container">
+            <div class="input-field">
+                <label for="fname">First Name</label>
+                <input type="text" name="fname" id="fname" placeholder="First Name">
+            </div>
+            <div class="input-field">
+                <label for="lname">Last Name</label> 
+                <input type="text" name="lname" id="lname" placeholder="Last Name">
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="religion">Religion</label>
+                <input type="text" name="religion" id="religion" placeholder="Religion">
+            </div>
+            <div class="input-field">
+                <label for="birth-place">Birth Place</label> 
+                <input type="text" name="birth-place" id="birth-place" placeholder="Birth Place">
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="date-of-birth">Date of Birth</label>
+                <input type="date" name="date-of-birth" id="date-of-birth" placeholder="Date of Birth">
+            </div>
+            <div class="input-field">
+                <label for="country">Country</label>
+                <input type="text" id="country-input" name="country" list="countries" placeholder="Select a country" autocomplete="off">
+                <datalist id="countries">
+                    <option value="" disabled selected hidden>Select Country</option>
+                    <option value="Nigeria">Nigeria</option>
+                    <option value="Ghana">Ghana</option>
+                </datalist>
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="position">Position</label>
+                <input type="text" name="position" id="position" placeholder="Position">
+            </div>
+            <div class="input-field">
+                <label for="keywords">Keywords</label>
+                <input type="text" name="keywords" id="keywords" placeholder="Keywords">
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="gender">Gender</label>
+                <select name="gender" id="gender" required>
+                    <option value="" disabled selected hidden>Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div class="input-field">
+                <label for="education">Education</label>
+                <input type="text" name="education" id="education" placeholder="Education">
+            </div>
+        </section>
+
+        <button class="search-btn">Search</button>
+    </form>
+
+    <!-- 3rd form for identity number (if checkbox is selected) -->
+    <form action="" id="look-up-by-id">
+        <section class="input-container">
+            <div class="input-field">
+                <label for="fname">First Name</label>
+                <input type="text" name="fname" id="fname" placeholder="First Name">
+            </div>
+            <div class="input-field">
+                <label for="lname">Last Name</label> 
+                <input type="text" name="lname" id="lname" placeholder="Last Name">
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="country">Country</label>
+                <input type="text" id="country-input" name="country" list="countries" placeholder="Select a country" autocomplete="off">
+                <datalist id="countries">
+                    <option value="" disabled selected hidden>Select Country</option>
+                    <option value="Nigeria">Nigeria</option>
+                    <option value="Ghana">Ghana</option>
+                </datalist>
+            </div>
+            <div class="input-field">
+                <label for="position">Position</label>
+                <input type="text" name="position" id="position" placeholder="Position">
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="keywords">Keywords</label>
+                <input type="text" name="keywords" id="keywords" placeholder="Keywords">
+            </div>
+            <div class="input-field">
+                <label for="gender">Gender</label>
+                <select name="gender" id="gender" required>
+                    <option value="" disabled selected hidden>Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="input-container">
+            <div class="input-field">
+                <label for="education">Education</label>
+                <input type="text" name="education" id="education" placeholder="Education">
+            </div>
+        </section>
+
+        <button class="search-btn">Search</button>
+    </form>
+
+    <script src="index.js"></script>
+</body>
+</html>
