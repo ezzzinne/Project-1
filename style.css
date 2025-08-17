@@ -34,7 +34,7 @@ body {
     width: 100%;
 }
 
-input[type="text"], select {
+input[type="text"], input[type="date"], select {
     width: 100%;
     max-width: 400px;
     height: 35px;
@@ -44,11 +44,11 @@ input[type="text"], select {
     box-sizing: border-box;
 }
 
-/* input[type="date"] {
+input[type="date"] {
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-} */
+}
 
 select:invalid, input[type="date"] {
   color: #9aa0a6;
