@@ -25,14 +25,9 @@
         </section>
 
         <!-- Input fields - should depend on the radio button user clicks -->
-        <section class="input-field" id="input-name">
-            <label for="full-name">Full Name</label>
-            <input type="text" placeholder="Enter Full Name" name="full-name" id="full-name" required>
-        </section>
-        <!-- Add an error handling for when user does not fill in requirements -->
-        <section class="input-field" id="input-id">
-            <label for="identity-number">Identity Number</label>
-            <input type="text" placeholder="Enter Identity Number" name="identity-number" id="identity-number" required>
+        <section id="input-section" class="input-field input">
+            <label for="input-id" id="input-label"></label>
+            <input type="text" id="input-id" name="input" placeholder="" pattern="[a-zA-Z0-9]+" required>
         </section>
 
         <!-- Checkbox to activate another form -->
@@ -43,7 +38,7 @@
     </form>
 
     <!-- 2nd form for name (if checkbox is clicked) -->
-    <form action="" id="look-up-by-name">
+    <form action="" id="look-up-by-name" class="form-container">
         <section class="input-container">
             <div class="input-field">
                 <label for="fname">First Name</label>
@@ -112,7 +107,7 @@
     </form>
 
     <!-- 3rd form for identity number (if checkbox is selected) -->
-    <form action="" id="look-up-by-id">
+    <form action="" id="look-up-by-id" class="form-container">
         <section class="input-container">
             <div class="input-field">
                 <label for="fname">First Name</label>

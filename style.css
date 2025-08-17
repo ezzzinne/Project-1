@@ -63,6 +63,31 @@ select:invalid, input[type="date"] {
     flex-wrap: wrap;
 }
 
+.form-container, .input {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease, opacity 0.4s ease;
+}
+
+.form-container.active, .input.active {
+    max-height: 1000px;
+    opacity: 1;
+}
+
+.input {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.4s ease, opacity 0.4s ease;
+}
+
+.input.active {
+    max-height: 200px;
+    opacity: 1;
+    margin: 30px 0px;
+}
+
 .search-btn {
     text-transform: uppercase;
     border-radius: 4px;
@@ -71,7 +96,6 @@ select:invalid, input[type="date"] {
     margin-top: 35px;
     background-color: white;
     cursor: pointer;
-    color: #ddd;
 }
 
 @media (max-width: 768px) {
