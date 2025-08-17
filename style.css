@@ -48,9 +48,6 @@ input[type="date"] {
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    width: 100%;
-    max-width: 400px;
-    min-height: 48px;
 }
 
 select:invalid, input[type="date"] {
