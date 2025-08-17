@@ -64,7 +64,7 @@
         <section class="input-container">
             <div class="input-field">
                 <label for="date-of-birth">Date of Birth</label>
-                <input type="date" name="date-of-birth" id="date-of-birth" placeholder="Date of Birth">
+                <input type="text" name="date-of-birth" id="date-of-birth" placeholder="DD-MM-YYYY" onfocus="this.type='date'" onblur="if(!this.value) this.type='text'">
             </div>
             <div class="input-field">
                 <label for="country">Country</label>
