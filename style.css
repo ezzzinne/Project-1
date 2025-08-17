@@ -44,6 +44,10 @@ input[type="text"], input[type="date"], select {
     box-sizing: border-box;
 }
 
+input[type="date"] {
+  min-height: 48px;
+}
+
 select:invalid, input[type="date"] {
   color: #9aa0a6;
   background-color: white;
