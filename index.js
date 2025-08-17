@@ -1,5 +1,6 @@
 const radios = document.querySelectorAll('input[name="identity"]');
-const checkbox = document.getElementById('more-info');
+const checkboxSection = document.getElementById('more-info');
+const checkbox = document.getElementById('checkbox');
 const formA = document.getElementById('look-up-by-name');
 const formB = document.getElementById('look-up-by-id');
 const inputSection = document.getElementById('input-section');
@@ -9,6 +10,7 @@ const inputLabel = document.getElementById('input-label');
 function updateForms() {
     try {
 
+        checkboxSection.classList.remove('active');
         formA.classList.remove('active');
         formB.classList.remove('active');
         inputSection.classList.remove('active');
@@ -18,6 +20,7 @@ function updateForms() {
         if (!selected) return;
 
         if (selected.value === "Name") {
+            checkboxSection.classList.add('active');
             inputLabel.textContent = 'Name';
             inputId.placeholder = 'Enter your name';
             inputSection.classList.add('active')
@@ -25,6 +28,7 @@ function updateForms() {
                 formA.classList.add('active');
             }
         } else if (selected.value === "Identity Number") {
+            checkboxSection.classList.add('active');
             inputLabel.textContent = 'Identity Number';
             inputId.placeholder = 'Enter your identity number';
             inputSection.classList.add('active')
