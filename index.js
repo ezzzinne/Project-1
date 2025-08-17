@@ -6,10 +6,12 @@ const formB = document.getElementById('look-up-by-id');
 const inputSection = document.getElementById('input-section');
 const inputId = document.getElementById('input-id');
 const inputLabel = document.getElementById('input-label');
+const searchSection = document.getElementById('search-section');
+const search = document.getElementById('search');
 
 function updateForms() {
     try {
-
+        searchSection.classList.remove('active')
         checkboxSection.classList.remove('active');
         formA.classList.remove('active');
         formB.classList.remove('active');
@@ -24,16 +26,20 @@ function updateForms() {
             inputLabel.textContent = 'Name';
             inputId.placeholder = 'Enter your name';
             inputSection.classList.add('active')
+            searchSection.classList.add('active');
             if (checkbox.checked) {
                 formA.classList.add('active');
+                searchSection.classList.add('active');
             }
         } else if (selected.value === "Identity Number") {
             checkboxSection.classList.add('active');
             inputLabel.textContent = 'Identity Number';
             inputId.placeholder = 'Enter your identity number';
-            inputSection.classList.add('active')
+            inputSection.classList.add('active');
+            searchSection.classList.add('active');
             if (checkbox.checked) {
                 formB.classList.add('active');
+                searchSection.classList.add('active');
             }
         }
     } catch (err) {

@@ -1,0 +1,149 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "status": "review_required",
+        "parentId": null,
+        "isSubjectConsent": true,
+        "type": "individual",
+        "sanctions": [],
+        "pep": [
+            {
+                "title": [
+                    "MUHAMMED GUDAJI"
+                ],
+                "entityType": "Person",
+                "datasets": [
+                    "wd_peps",
+                    "wikidata",
+                    "everypolitician"
+                ],
+                "gender": [
+                    "male"
+                ],
+                "position": [
+                    "member of the House of Representatives of Nigeria",
+                    "member of the House of Representatives of Nigeria (2019-)",
+                    "House of Representatives (member, 2015-)"
+                ],
+                "topics": [
+                    "role.pep"
+                ],
+                "birthDate": [
+                    "1972-01-01T00:00:00.000Z"
+                ],
+                "alias": [
+                    "Muhammed Gudaji",
+                    "Muhammad Aliyu Gudaji",
+                    "MUHAMMED KAZAURE GUDAJI",
+                    "Muhammed Kazaure Gudaji",
+                    "Muhammed Gudaji Kazaure"
+                ],
+                "keywords": [
+                    "National government"
+                ],
+                "country": [
+                    "ng"
+                ],
+                "nationality": [
+                    "ng"
+                ],
+                "notes": [
+                    "Nigerian politician"
+                ],
+                "name": [
+                    "Muhammed Gudaji",
+                    "MUHAMMED GUDAJI"
+                ],
+                "phone": [
+                    "+2347037730852"
+                ],
+                "positionOccupancies": [
+                    {
+                        "post": [
+                            {
+                                "country": [
+                                    "ng"
+                                ],
+                                "name": [
+                                    "member of the House of Representatives of Nigeria"
+                                ]
+                            }
+                        ],
+                        "status": [
+                            "ended"
+                        ],
+                        "startDate": [
+                            "2019-06-11T00:00:00.000Z"
+                        ],
+                        "endDate": [
+                            "2023-06-11T00:00:00.000Z"
+                        ]
+                    },
+                    {
+                        "post": [
+                            {
+                                "country": [
+                                    "ng"
+                                ],
+                                "name": [
+                                    "member of the House of Representatives of Nigeria"
+                                ]
+                            }
+                        ],
+                        "status": [
+                            "ended"
+                        ],
+                        "endDate": [
+                            "2019-06-09T00:00:00.000Z"
+                        ],
+                        "startDate": [
+                            "2015-06-09T00:00:00.000Z"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "crime": [],
+        "debarment": [],
+        "financial_services": [],
+        "government": [],
+        "role": [],
+        "religion": [],
+        "military": [],
+        "frozen_asset": [],
+        "personOfInterest": [],
+        "totalEntity": 1,
+        "categoryCount": {
+            "sanctions": 0,
+            "pep": 1,
+            "crime": 0,
+            "debarment": 0,
+            "financial_services": 0,
+            "government": 0,
+            "role": 0,
+            "religion": 0,
+            "military": 0,
+            "frozen_asset": 0,
+            "personOfInterest": 0
+        },
+        "queriedWith": "Identity Number",
+        "query": "+2347037730852",
+        "businessId": "6222a5ed3e7a41c29c031ecc",
+        "requestedAt": "2023-09-21T07:18:47.482Z",
+        "requestedById": "6222a5ed3e7a41c29c031ece",
+        "createdAt": "2023-09-21T07:18:47.572Z",
+        "lastModifiedAt": "2023-09-21T07:18:47.572Z",
+        "_createdAt": "2023-09-21T07:18:4747+00:00",
+        "_lastModifiedAt": "2023-09-21T07:18:4747+00:00",
+        "id": "650bee57b5646f3c2c54a979",
+        "requestedBy": {
+            "firstName": "API",
+            "lastName": "User",
+            "middleName": "",
+            "id": "6222a5ed3e7a41c29c031ece"
+        }
+    },
+    "links": []
+}
