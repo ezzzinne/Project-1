@@ -8,6 +8,8 @@ const inputId = document.getElementById('input-id');
 const inputLabel = document.getElementById('input-label');
 const searchSection = document.getElementById('search-section');
 const search = document.getElementById('search');
+const form = document.getElementById('sanction-form');
+const resultsTable = document.getElementById('results-table');
 
 function updateForms() {
     try {
@@ -47,6 +49,9 @@ function updateForms() {
     }
 }
 
+async function fetchData() {
+    const response = await fetch
+}
 
 radios.forEach(radio => radio.addEventListener('change', updateForms));
 checkbox.addEventListener('change', updateForms);
