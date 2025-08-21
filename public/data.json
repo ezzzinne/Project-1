@@ -1,0 +1,1712 @@
+{
+  "nameResponse": {
+    "success": true,
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+      "status": "not_cleared",
+      "parentId": null,
+      "isSubjectConsent": true,
+      "type": "all",
+      "sanctions": [
+        {
+          "title": ["Imam", "イマーム（Imam）"],
+          "entityType": "Person",
+          "datasets": [
+            "ua_sfms_blacklist",
+            "us_trade_csl",
+            "za_fic_sanctions",
+            "ch_seco_sanctions",
+            "qa_nctc_sanctions",
+            "fr_tresor_gels_avoir",
+            "gb_hmt_sanctions",
+            "jp_mof_sanctions",
+            "eu_travel_bans",
+            "au_dfat_sanctions",
+            "be_fod_sanctions",
+            "un_sc_sanctions",
+            "ar_repet",
+            "eu_fsf",
+            "wikidata",
+            "us_ofac_sdn"
+          ],
+          "birthDate": ["1969-01-01T00:00:00.000Z", "1973-03-24T00:00:00.000Z"],
+          "firstName": [
+            "Abubakar",
+            "أبو بكر محمد الشكوى",
+            "Abubakar Shekau",
+            "Shekau",
+            "ABUBAKAR",
+            "أبو بكر",
+            "Abu"
+          ],
+          "nationality": ["ng"],
+          "notes": [
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QE.B.138.14). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks.",
+            "membre de la tribu Kanuri - description physique : yeux de couleur noire, cheveux de couleur noire - dirigeant du Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Sous la direction de Shekau, Boko Haram a été responsable d'une série d'attaques terroristes majeures",
+            "leader of a Nigerian militant group (1973-2021)",
+            "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jamaatu Ahlis Sunna LiddaAwati Wal-Jihad (Boko Haram) (QDe.138). Under Shekaus leadership, Boko Haram has been responsible for a series of major terrorist attacks. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+            "Associated with Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” and “otherwise supporting acts or activities of” Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad (Boko Haram) (QE.B.138.14) and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+            "Title: Imam. Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks.",
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+            "Under Shekau’s leadership, Boko Haram has maintained a relationship with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) for training and material support purposes. For example, Boko Haram gained valuable knowledge on the construction of improvised explosive devices from AQIM. A number of Boko Haram members fought alongside Al- Qaida-affiliated groups in Mali in 2012 and 2013 before returning to Nigeria with terrorist expertise. Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks, including a wave of bombings in Kano, Nigeria in January 2012 that killed more than 180 people in a single day. Another major attack was the 26 August 2011 bomb attack on the United Nations headquarters in Abuja that killed at least 21 people and wounded scores more. The group was also responsible for the 25 December 2011 attack on the Saint Theresa Catholic Church in Madalla, Nigeria, that killed at least 37 and wounded approximately 50. Since summer 2012 Boko Haram has undertaken a campaign of violence against Nigerian schools and students. In June 2013, the group attacked schools in Maiduguri and Damaturu, Nigeria, killing at least 22 children; in July, an attack on a school in the village of Mamudo, Nigeria, killed at least 42 people, most of them students. On 29 September 2013, Boko Haram attacked an agricultural school in Yobe, Nigeria, shooting dead 50 students in their dormitory as they slept. On 14 April 2014, Boko Haram abducted approximately 300 girls from a school in northern Nigeria. Shekau claimed responsibility for the attack in a video released by Boko Haram and threatened to sell the girls into slavery. Boko Haram militants subsequently attacked a staging base for rescuers on 5 May 2014, killing an additional 310 people. In a statement released in November 2012, Shekau expressed Boko Haram’s solidarity with Al- Qaida affiliates in Afghanistan, Iraq, North Africa, Somalia and Yemen. He also encouraged fighters across Africa and other areas to continue engaging in terrorist attacks. Shekau’s media statements have been published on known jihadist forums.",
+            "カヌリ族の一員。身体的情報：目の色及び髪の色は黒。写真はインターポール（国際刑事警察機構）･国連安全保障理事会特別手配書に含まれているものを利用可能。ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．で指定した団体）の指導者。シェカウの指導の下、ボコ・ハラムは一連の主要なテロ攻撃を実行している。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+            "Other information: (a) Physical description: eye colour: black; hair colour: black; (b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 2a(4)(b): 26.6.2014.",
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019"
+          ],
+          "topics": ["mil", "sanction"],
+          "weakAlias": [
+            "（a.k.a.:",
+            "Abubakar Shekau",
+            "Shekau",
+            "シェカウ",
+            "シェフ",
+            "Imam Darul Tawheed）",
+            "Shehu",
+            "アブ・モハンメド・アブバカル・ビン・モハンメド",
+            "SHEHU",
+            "アブバカル・シェカウ",
+            "Abu Mohammed Abubakar bin Mohammed",
+            "Shayku",
+            "イマーム・ダリュル・タウヒード",
+            "アブ・ムハンメド・アブバカル・ビ・モハンメド",
+            "SHAYKU",
+            "SHEKAU",
+            "シャキュ",
+            "Imam Darul Tauhid",
+            "Darul Tauhid",
+            "Imam Darul Tawheed",
+            "Darul Tawheed",
+            "Abu Muhammed Abubakar bi Mohammed"
+          ],
+          "addressEntity": [
+            {
+              "country": ["ng"],
+              "full": ["ナイジェリア"]
+            },
+            {
+              "full": ["Nigeria", "NIGERIA"],
+              "country": ["ng"]
+            }
+          ],
+          "alias": [
+            "Abu Muhammed Abubakar bi Mohammed",
+            "阿布巴卡爾·謝考",
+            "Abubakar Shekau",
+            "Shekau",
+            "Darul Akeem wa Zamunda Tawheed",
+            "أبا بكر شيكاو",
+            "Imam Abu Muhammad Ibn Muhammad Abubakar Ash Shekawi",
+            "أبو مُحمَّد أبو بكر بن مُحمَّد الشكوي",
+            "Abu Mohammed Abubakar BIN MOHAMMED",
+            "أبو بكر محمد الشكوى",
+            "أبو بكر محمد الشكوى Mohammed Shekau",
+            "ابو بکر شیکاؤ",
+            "अबुबकार सेकाउ",
+            "Shehu",
+            "أبي بكر شيكاو",
+            "Шекау, Абубакар",
+            "Abu Mohammed Abubakar bin Mohammad al-Sheikawi",
+            "আবু বকর শেকাউ",
+            "アブバカル・シェカウ",
+            "أبو بكر شكوي",
+            "Abu Mohammed Abubakar bin Mohammed",
+            "אבו בכר שקאו",
+            "Shayku",
+            "ایجاد ابوبکر شکائو",
+            "Abu Muhammed Abubakar BI MUHAMMED",
+            "아부바카르 셰카우",
+            "Imam Darul Tauhid",
+            "Darul Tawheed",
+            "Ebubekir Şekau",
+            "Imam Darul Tawheed",
+            "أبو بكر شيكاو",
+            "Абубакар Шекау"
+          ],
+          "country": ["ng"],
+          "name": [
+            "أبو بكر محمد الشكوى)",
+            "Abubakar SHEKAU",
+            "Shekau Mohammed Abubakar",
+            "Shayku",
+            "أبو بكر محمد الشكوى",
+            "Shehu",
+            "Abubakar Shekau",
+            "Shekau",
+            "アブバカル・モハンメド・シェカウ",
+            "SHEKAU, Abubakar",
+            "ABUBAKAR MOHAMMED SHEKAU",
+            "Imam Darul Tauhid",
+            "Imam Darul Tawheed",
+            "Abubakar Mohammed Shekau",
+            "Abubakar Mohammed SHEKAU",
+            "Abu Muhammed Abubakar bi Mohammed",
+            "Abu Mohammed Abubakar bin Mohammed"
+          ],
+          "position": [
+            "Leader of  Boko Haram (2009-2021)",
+            "Imam",
+            "Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram)"
+          ],
+          "middleName": ["الشكوى", "SHEKAU"],
+          "secondName": ["MOHAMMED", "Mohammed", "محمد"],
+          "lastName": [
+            "BI MUHAMMED",
+            "Abubakar",
+            "ABUBAKAR  MOHAMMED SHEKAU",
+            "Shekau",
+            "SHEKAU",
+            "BIN MOHAMMED"
+          ],
+          "deathDate": ["2021-05-20"],
+          "religion": ["Islam"],
+          "fatherName": ["Shekau", "Mohammed"],
+          "birthPlace": [
+            "Shekau Village, Yobe State, Nigeria",
+            "Shekau",
+            "Village Shekau, Etat de Yobe",
+            "Shekau Village, Yobe State",
+            "Yobe State, Nigeria"
+          ],
+          "gender": ["male"],
+          "sourceUrl": [
+            "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=15009"
+          ],
+          "ethnicity": ["Kanuri people"],
+          "sanctions": [
+            {
+              "sourceUrl": ["https://repet.jus.gob.ar/"],
+              "unscId": ["QDi.322"],
+              "startDate": ["2014-06-26T00:00:00.000Z"],
+              "program": ["UN List", "Al-Qaida"],
+              "listingDate": ["2014-06-26"],
+              "authority": ["Ministry of Justice and Human Rights"],
+              "country": ["ar"]
+            },
+            {
+              "startDate": ["2020-01-30T00:00:00.000Z"],
+              "summary": ["Listed on 26 June 2014 (amended 6 Dec 2019)"],
+              "sourceUrl": [
+                "https://www.dfat.gov.au/international-relations/security/sanctions/Pages/sanctions"
+              ],
+              "country": ["au"],
+              "authority": ["Department of Foreign Affairs and Trade (DFAT)"],
+              "program": ["1267/1989/2253 (ISIL (Da'esh) and Al-Qaida)"]
+            },
+            {
+              "startDate": ["2014-07-04T00:00:00.000Z"],
+              "authority": ["Federal Public Service Finance"],
+              "sourceUrl": [
+                "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN"
+              ],
+              "listingDate": ["2014-07-04"],
+              "program": ["TAQA"],
+              "reason": ["735/2014 (OJ L198)"],
+              "country": ["be"]
+            },
+            {
+              "sourceUrl": [
+                "https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html"
+              ],
+              "program": [
+                "Ordinance of 2 October 2000 on measures against individuals and entities associated with Usama bin Laden, the group «Al-Qaïda» or the Taliban (SR 946.203), annex 2"
+              ],
+              "authority": ["State Secretariat for Economic Affairs (SECO)"],
+              "listingDate": ["2020-01-16", "2014-08-05"],
+              "startDate": [
+                "2020-01-14T00:00:00.000Z",
+                "2014-08-05T00:00:00.000Z"
+              ],
+              "country": ["ch"]
+            },
+            {
+              "reason": ["735/2014 (OJ L198)"],
+              "program": ["TAQA"],
+              "country": ["eu"],
+              "listingDate": ["2014-07-04"],
+              "sourceUrl": [
+                "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN"
+              ],
+              "authority": ["European External Action Service"],
+              "startDate": ["2014-07-04T00:00:00.000Z"]
+            },
+            {
+              "authority": ["Estonian Presidency of the Council of the EU"],
+              "country": ["eu"],
+              "reason": [
+                "Council Decision concerning restrictive measures against ISIL (Da'esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP"
+              ],
+              "sourceUrl": [
+                "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D1693-20221019"
+              ]
+            },
+            {
+              "program": [
+                "(UE) 735/2014 du 04/07/2014 (ONU Al Qaeda Etat - Islamique - règlement (UE) 881/2002)"
+              ],
+              "reason": [
+                "membre de la tribu Kanuri - description physique : yeux de couleur noire, cheveux de couleur noire - dirigeant du Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Sous la direction de Shekau, Boko Haram a été responsable d'une série d'attaques terroristes majeures"
+              ],
+              "sourceUrl": ["https://gels-avoirs.dgtresor.gouv.fr/"],
+              "authority": ["Ministry of Economy, Finance, and Recovery"],
+              "country": ["fr"]
+            },
+            {
+              "program": ["ISIL (Da'esh) and Al-Qaida"],
+              "country": ["gb"],
+              "listingDate": ["2014-07-08"],
+              "authority": [
+                "Office of Financial Sanctions Implementation",
+                "UN"
+              ],
+              "status": ["Asset Freeze Targets"],
+              "startDate": ["2014-06-26T00:00:00.000Z"],
+              "sourceUrl": [
+                "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets"
+              ],
+              "unscId": ["QDi.322"]
+            },
+            {
+              "unscId": ["2014年6月26日（2019年12月6日に改訂）"],
+              "program": [
+                "タリバーン関係者等 （タリバーン、アル・カーイダ及びISIL（ダーイシュ）関係者等） / （注1）国連安保理決議第1267号、第1333号、第1390号、第1988号、第1989号、第2253号及び第2255号に加えて、国連安保理決議第1373号に基づく資産凍結措置の対象に指定されている個人及び団体については、告示番号の冒頭に＊印を付しています。 （注2）2021年5月28日以降の制裁対象者の追加指定につきましては、外務省告示を２回に分けて発出することとなりました。 （１回目：制裁対象者の氏名等を国連安保理が公表した英文の情報のまま発出する告示、２回目：制裁対象者の氏名等に仮名表記等を追加・修文する告示）２回目の告示発出につきましては、当シートの告示日付には反映しておりません。"
+              ],
+              "country": ["jp"],
+              "startDate": [
+                "2014-07-23T00:00:00.000Z",
+                "2020-01-31T00:00:00.000Z",
+                "2020-01-20T00:00:00.000Z"
+              ],
+              "authority": ["Ministry of Finance"],
+              "sourceUrl": [
+                "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/gaiyou.html"
+              ]
+            },
+            {
+              "authority": ["Office of Foreign Assets Control (OFAC)"],
+              "sourceUrl": [
+                "https://www.treasury.gov/resource-center/sanctions/Pages/default.aspx"
+              ],
+              "provisions": ["Block", "SDGT"],
+              "program": ["SDN List"],
+              "reason": ["Executive Order 13224 (Terrorism)"],
+              "country": ["us"]
+            },
+            {
+              "sourceUrl": [
+                "https://fiu.gov.ua/en/pages/dijalnist/protidija-terorizmu/perelik-teroristiv"
+              ],
+              "country": ["ua"],
+              "listingDate": ["2020-01-17"],
+              "authority": [
+                "Державна служба фінансового моніторингу України (Держфінмоніторинг)"
+              ],
+              "program": ["Резолюції РБ ООН 1267 (1999) та 1989 (2011)"],
+              "startDate": ["2020-01-17T00:00:00.000Z"]
+            },
+            {
+              "unscId": ["QDi.322"],
+              "startDate": ["2014-06-26T00:00:00.000Z"],
+              "sourceUrl": [
+                "https://www.un.org/securitycouncil/sanctions/information"
+              ],
+              "authority": ["United Nations Security Council (UN SC)"],
+              "program": ["Al-Qaida"],
+              "listingDate": ["2014-06-26"]
+            },
+            {
+              "authority": ["Financial Intelligence Centre (FIC)"],
+              "sourceUrl": [
+                "https://www.fic.gov.za/International/sanctions/SitePages/Home.aspx"
+              ],
+              "listingDate": ["2014-06-26"],
+              "unscId": ["QDi.322"],
+              "country": ["za"]
+            }
+          ],
+          "unknownLinkTo": [
+            {
+              "object": [
+                {
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=16363",
+                    "http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx"
+                  ],
+                  "weakAlias": [
+                    "Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad",
+                    "ボコ・ハラム",
+                    "Boko Haram",
+                    "西洋式教育は罪",
+                    "ジャマトゥ・アフルス・スンナ・リッダァワティ・ワル・ジハード",
+                    "【アラビア語】",
+                    "Jama'atu Ahlus-Sunna Lidda’Awati Wal Jihad",
+                    "جماعة أهل السنة للدعوة والجهاد",
+                    "Western Education is a Sin)"
+                  ],
+                  "alias": [
+                    "Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad",
+                    "والجھاد للدعوة السنة أھل جماعة",
+                    "جماعة أهل السنّة للدعوة والجهاد",
+                    "NIGERIAN TALIBAN",
+                    "Western Education is a Sin F.k.a.",
+                    "Boko Haram",
+                    "Western Education is a Sin",
+                    "JAMA'ATU AHLUS-SUNNAH LIDDA'AWATI WAL JIHAD",
+                    "PEOPLE COMMITTED TO THE PROPHET'S TEACHINGS FOR PROPAGATION AND JIHAD",
+                    "Jama'atu Ahlis Sunna Lidda'awati Wal-Jihad (People of the Tradition of the Prophet for Preaching and Striving / Group Committed to Propagating the Prophet's Teachings and Jihad)",
+                    "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD;",
+                    "جماعة أهل السنة للدعوة والجهاد",
+                    "Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad",
+                    "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD",
+                    "SUNNI GROUP FOR PREACHING AND JIHAD"
+                  ],
+                  "notes": [
+                    "Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau.",
+                    "Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad (Boko Haram) which in Arabic means “People Committed to the Prophet's Teachings for Propagation and Jihad” was founded in 2002 in Maiduguri, Nigeria, by the Nigerian Mohammed Yusuf (deceased) with the goal of supporting Islamic education and establishing an Islamic state in Nigeria. In 2009 the group carried out a series of attacks on police stations and other government buildings in Maiduguri, which resulted in Nigerian government raids on the group's headquarters and Yusuf's death in those raids. Since then, Boko Haram has been led by Abubakar Shekau and has embarked on a violent insurgency utilizing terrorist tactics. The group is based in north-eastern Nigeria but has also operated in Cameroon and is responsible for attacks and kidnappings in those two countries. Boko Haram has also been active in Chad and Niger.",
+                    "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+                    "Affiliate of Al-Qaida (Qde.004), and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (Qde.014). Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau.",
+                    "Other information: (a) Affiliate of Al-Qaida and the Organization of Al-Qaida in the Islamic Maghreb (AQIM), (b) Associated with and Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru), (c) The leader is Abubakar Shekau. Date of designation referred to in Article 2a(4)(b): 22.5.2014.",
+                    "Associated with Al-Qaida for participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” Al-Qaida (QE.A.4.01) and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+                    "Boko Haram is responsible for a series of major terrorist attacks, including a wave of bombings in Kano, Nigeria in Jan 2012 that killed more than 180 people in a single day. Another major attack was the Aug 26 2011 bomb attack on the United Nations headquarters in Abuja that killed at least 21 people and wounded scores more. The group was also responsible for the Dec 25 2011 attack on the Saint Theresa Catholic Church in Madalla, Nigeria, that killed at least 37 and wounded approximately 50.",
+                    "On Apr 14 2014, Boko Haram abducted approximately 300 girls from a school in northern Nigeria. Abubakar Shekau claimed responsibility for the attack in a video released by Boko Haram and threatened to sell the girls into slavery. Boko Haram militants subsequently attacked a staging base for rescuers on May 5 2014, killing an additional 310 people. In a statement released in Nov 2012, Abubakar Shekau expressed Boko Haram’s solidarity with Al-Qaida affiliates in Afghanistan, Iraq, North Africa, Somalia and Yemen. He also encouraged fighters across Africa and other areas to continue engaging in terrorist attacks. Shekau’s media statements have been published on known jihadist forums.",
+                    "Since summer 2012 Boko Haram has undertaken a campaign of violence against Nigerian schools and students. In Jun 2013, the group attacked schools in Maiduguri and Damaturu, Nigeria, killing at least 22 children; in July an attack on a school in the village of Mamudo, Nigeria killed at least 42 people, most of them students. On Sep 29 2013 Boko Haram attacked an agricultural school in Yobe, Nigeria, shooting dead 50 students in their dormitory as they slept.",
+                    "Affiliate of Al-Qaida (QDe.004), and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+                    "アル・カーイダ（166．に指定した団体）及びイスラム・マグレブ諸国のアル・カーイダ組織（AQIM）（173．に指定した団体）と関係がある。ジャマトゥ・アンサルー・ムスリミナ・フィ・ビラディス・スーダン（アンサル）と連携している。指導者はアブバカール・シェカウ。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "Boko Haram (BH) is a Salafist jihadist group operating in northern Nigeria whose ultimate objective is to overthrow the Nigerian government and implement Sharia Law. The group desires a political system in Nigeria modeled after how the Taliban ruled in Afghanistan. Its tactics include small arms attacks, the use of improvised explosive devices, suicide bombings, and kidnappings. BH conducted a suicide bomb attack against the United Nations compound in Abuja, Nigeria in August 2011, killing 23 people. In April 2014, BH kidnapped a Canadian nun and two Italian priests in Cameroon. A few days later, in Nigeria, the group kidnapped 276 schoolgirls.  In 2015, BH leader Abubakar Shekau pledged allegiance to the Islamic State and BH renamed itself the \"Islamic States West Africa Province\". However, the Islamic State appointed Abu Musab al-Barnawi as leader of Islamic States West Africa Province, resulting in the formation of two rival factions; one loyal to Shekau operating under the BH banner, and the other (Islamic States West Africa Province) led by Barnawi. During the first nine months of 2016, BH was responsible for nearly 400 deaths in Nigeria,  and  approximately 850 deaths in 2017. In many of its attacks BH used children, particularly young girls, as suicide bombers.",
+                    "Jama'atu Ahlis-Sunna Lidda’Awati Wal-Jihad (Boko Haram), que en árabe significa “Personas comprometidas con las enseñanzas del Profeta para la propagación de la Yihad”, fue fundada en 2002, en Maiduguri (Nigeria), por el nigeriano Mohammed Yusuf (muerto) con el objetivo de apoyar la educación islámica y establecer un Estado islámico en Nigeria. En 2009, el grupo perpetró una serie de atentados contra las comisarías de policía y otros edificios públicos en Maiduguri, que llevaron al Gobierno de Nigeria a lanzar ataques contra el cuartel general del grupo, en los que Yusuf resultó muerto. Desde entonces, Boko Haram ha estado dirigida por Abubakar Mohammed Shekau (QDi.322) y ha emprendido una insurgencia violenta utilizando tácticas terroristas. El grupo tiene su base en la zona nororiental de Nigeria, pero también ha operado en el Camerún y es responsable de ataques y secuestros en esos dos países. Además, Boko Haram ha llevado a cabo actividades en el Chad y el Níger. Boko Haram ha mantenido relaciones con la Organización Al-Qaida en el Magreb Islámico (AQIM) (QDe.014) con fines de adiestramiento y apoyo material. Por ejemplo, Boko Haram obtuvo de Al-Qaida en el Magreb Islámico valiosos conocimientos sobre la construcción de artefactos explosivos improvisados. Varios miembros de Boko Haram combatieron junto a grupos afiliados a Al-Qaida en Malí en 2012 y 2013, antes de regresar a Nigeria con conocimientos especializados sobre terrorismo. Boko Haram es responsable de una serie de ataques terroristas de envergadura, incluida una ola de atentados con bombas en Kano (Nigeria), en enero de 2012, que dejó un saldo de más de 180 muertos en un solo día. Otro atentado grave fue el perpetrado con explosivos el 26 de agosto de 2011 contra la sede de las Naciones Unidas en Abuja, en el que murieron al menos 21 personas y decenas más resultaron heridas. El Grupo también fue responsable del ataque lanzado el 25 de diciembre de 2011 contra la Iglesia de Santa Teresa en Madalla (Nigeria), que dejó un saldo de por lo menos 37 muertos y cerca de 50 heridos. Desde el verano de 2012, Boko Haram ha emprendido una campaña de violencia contra las escuelas y los estudiantes de Nigeria. En junio de 2013, el grupo atacó escuelas en Maiduguri y Damaturu, en Nigeria, y dio muerte a por lo menos 22 niños; en julio, un ataque contra una escuela en la aldea nigeriana de Mamudo dejó un saldo de por lo menos 42 muertos, en su mayoría estudiantes. El 29 de septiembre de 2013, Boko Haram atacó una escuela agrícola en Yobe (Nigeria) y asesinó a balazos a 50 estudiantes que dormían en su dormitorio. El 14 de abril de 2014, Boko Haram secuestró a alrededor de 300 niñas de una escuela en el norte de Nigeria. Abubakar Mohammed Shekau reivindicó la autoría de los hechos, en un vídeo publicado por Boko Haram, y amenazó con vender a las niñas como esclavas. Posteriormente, el 5 de mayo de 2014, miembros de Boko Haram atacaron una base de operaciones de personal de rescate, y dieron muerte a otras 310 personas. En una declaración dada a conocer en noviembre de 2012, Abubakar Mohammed Shekau expresó la solidaridad de Boko Haram con los afiliados de Al-Qaida en el Afganistán, el Iraq, África Septentrional, Somalia y el Yemen, y alentó a los combatientes de toda África y de otras zonas a que siguieran lanzando ataques terroristas. Las declaraciones de Shekau para los medios de difusión se han publicado en foros extremistas violentos conocidos.",
+                    "affiliée à Al-Qaida et à l'Organisation d'Al-Qaida pour le Magreb Islamique (AQMI) -- associée avec Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru) -- son dirigeant est Abubakar Shekau",
+                    "Affiliate of Al-Qaida (QDe.004), and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+                    "Boko Haram has maintained a relationship with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) for training and material support purposes. For example, Boko Haram gained valuable knowledge on the construction of improvised explosive devices from AQIM. A number of Boko Haram members fought alongside Al-Qaida affiliated groups in Mali in 2012 and 2013 before returning to Nigeria with terrorist expertise."
+                  ],
+                  "country": ["ng"],
+                  "name": [
+                    "Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad",
+                    "جماعة أهل السنّة للدعوة والجهاد",
+                    "Boko Haram",
+                    "ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード",
+                    "Western Education is a Sin",
+                    "Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad",
+                    "ג'מאעה אהל אלסנה ללדעוה ואלג'האד",
+                    "Jama'atu ahlis sunna lidda'awati wal-jihad",
+                    "BOKO HARAM",
+                    "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD",
+                    "Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad"
+                  ],
+                  "topics": ["sanction", "crime.terror"]
+                }
+              ],
+              "role": ["Leader of"]
+            },
+            {
+              "object": [
+                {
+                  "country": ["ma", "mr", "ml", "dz", "ne", "tn"],
+                  "previousName": [
+                    "Salafist Group For Call and Combat",
+                    "布教と戦闘のためのサラフィスト・グループ（ＧＳＰＣ）",
+                    "Le Groupe Salafiste pour La Prédication et le Combat (GSPC)",
+                    "布教と戦闘のためのサラフィスト・グループ",
+                    "Le Groupe Salafiste pour La Predication et le Combat GSPC"
+                  ],
+                  "alias": [
+                    "Salafist Group For Call and Combat",
+                    "Лъ Груп Салафист Пур Ла Предикасион е лъ Комба",
+                    "SALAFIST GROUP FOR PREACHING AND COMBAT",
+                    "Салафист Груп фор Кол енд Камбат/ГСПК",
+                    "Al Qaida au Maghreb islamique AQMI",
+                    "AQIM -ALQAEDA IN ISLAMIC MAGHREB",
+                    "Tanzim al-Qa´ida fi bilad al-Maghreb al-Islamiya",
+                    "Al Qaïda au Maghreb islamique AQMI",
+                    "אלקאעדה בארצות המע'רב האיסלאמי",
+                    "AL-QA'IDA IN THE ISLAMIC MAGHREB",
+                    "LE GROUPE SALAFISTE POUR LA PREDICATION ET LE COMBAT",
+                    "Groupe salafiste pour la prédication et le combat (GSPC)",
+                    "Al Qaïda au Maghreb islamique (AQMI)",
+                    "Al-Qa´ida Organisation in the Lands of the Islamic Maghreb",
+                    "Groupe salafiste pour la prédication et le combat",
+                    "Al-Qa´ida in the Lands of the Islamic Maghreb",
+                    "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB",
+                    "Le Groupe Salafiste pour La Predication et le Combat (GSPC)",
+                    "TANZIM AL-QA'IDA FI BILAD AL-MAGHRIB AL-ISLAMIYA",
+                    "Al-Qa´ida in the Islamic Maghreb",
+                    "AQIM",
+                    "תנט'ים אלקאעדה בבלאד אלמע'רב אלאסלאמי",
+                    "Le Groupe Salafiste Pour La Prediction et le Combat",
+                    "The Organization of Al-Qaida in the Islamic Maghreb",
+                    "Salafist Group for Call and Combat (GSPC)",
+                    "Al Qaida au Maghreb islamique (AQMI)",
+                    "the Salafist Group for Preaching and Combat",
+                    "تنظيم القا عدة ببلاد المغرب الاسلامي",
+                    "Tanzim Qaedat bi-Bilad al-Maghrab al-Islami",
+                    "Le Groupe Salafiste pour La Prédication et le Combat GSPC",
+                    "al-Qaïda dans les pays du Maghreb islamique",
+                    "تنظيم القاعدة ببلاد المغرب الاسلامي",
+                    "GSPC"
+                  ],
+                  "notes": [
+                    "Headed by Abdelmalek Droukdel (QDi.232). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010.",
+                    "AQIM is a militant Sunni Islamist extremist group which originated as the Groupe Islamique Armeé (Armed Islamic Group or GIA), an armed Islamist resistance movement to the secular Algerian government. In 1998, a splinter of the GIA declared its independence from the original group, believing the GIA's brutal tactics were hurting the Islamist cause. The Groupe salafiste pour la prédication et le combat (Salafist Group for Call and Combat (GSPC), as the new group named itself, gained support from the Algerian population by vowing to continue fighting the government while avoiding the indiscriminate killing of civilians. The GSPC officially merged with Al Qaida in September 2006, subsequently changing its name to Al Qaida in the Islamic Maghreb (AQIM), and announcing the name change in January 2007. AQIM is the most effective and largest extremist armed group inside Algeria. Since its merger with Al Qaida, AQIM has also adopted a global jihad ideology. The group has maintained a high operational tempo since its emergence under the name of AQIM, employing conventional terrorist tactics including guerilla-style ambushes and the use of improvised explosive devices against military personnel and truck bombs against government targets, in Algeria and West African countries. AQIM continues to kidnap Westerners and hold them for ransom in return for the release of imprisoned Islamic militants. In 2016, 29 people were killed, including 6 Canadians, in an AQIM attack on a hotel in Burkina Faso. In March 2017, AQIM's Mali-based affiliate, JNIM, was formed. On March 2, 2018, a coordinated attack by JNIM on the army headquarters and the French Embassy in Ouagadougou, Burkina Faso's capital, killed at least 8 people and wounding more than 80 others.",
+                    "Headed by Abdelmalek Droukdel (QI.D.232.07.). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 Nov 2020.",
+                    "dirigé par Abdelmalek Droukdel --  sa zone d'activité englobe l'Algérie et certaines régions du Mali, de la Mauritanie, du Niger, de la Tunisie et du Maroc",
+                    "Headed by Abdelmalek Droukdel (QDi.232). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.",
+                    "アブデルマレク・ドゥルークデル（516．に指定した個人）によって率いられる。活動地域はアルジェリア、マリの一部、モーリタニア、ニジェール、チュニジア及びモロッコ。国連安全保障理事会決議第1822号（2008年）に基づく見直しは2010年6月21日に終了した。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2020年11月24日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "Headed by Abdelmalek Droukdel (QI.D.232.07.). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020."
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "name": [
+                    "Salafist Group for Call and Combat",
+                    "تنظيم القا عدة ببلاد المغرب الاسلامي)",
+                    "Salafist Group for Call and Combat/GSPC",
+                    "AQIM-AL QAEDA IN THE LANDS OF THE ISLAMIC MAGHREB",
+                    "Le Groupe Salafiste pour la Prédiction et le Combat",
+                    "تنظيم القاعدة في بلاد المغرب الإسلامي",
+                    "AQMI",
+                    "Grupo Salafista para la Predicación y el Combate",
+                    "SALAFIST GROUP FOR CALL AND COMBAT",
+                    "Organizația Al-Qaida în Magrebul islamic",
+                    "Al Qaïda au Maghreb islamique",
+                    "Gruppo salafista per la predicazione e il combattimento",
+                    "Οµάδα σαλαφιστών µαχητών και ιεροκηρύκων",
+                    "Al-Qaida organizācija Islama Magrebas valstīs",
+                    "אלקאעדה בארצות המגרב האיסלאמי",
+                    "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB",
+                    "Al Qaida in the Islamic Maghreb (AQIM)",
+                    "AQIM",
+                    "The Organization of Al-Qaida in the Islamic Maghreb",
+                    "AL QAIDA IN THE LAND OF THE ISLAMIC MAGHREB",
+                    "Grupo Salafista de Prédica e Combate",
+                    "イスラム・マグレブ諸国のアル・カーイダ組織",
+                    "تنظيم القا عدة ببلاد المغرب الاسلامي",
+                    "GSPC",
+                    "Organização da Al-Qaida no Magrebe Islâmico"
+                  ],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=6897",
+                    "https://www.dans.bg/images/stories/FID/Reshenie_265_MS_23042003_Spisyk_ZMFT.pdf",
+                    "http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx"
+                  ],
+                  "weakAlias": [
+                    "Al Qaïda au Maghreb islamique (AQMI))",
+                    "AQIM",
+                    "イスラム・マグレブ諸国のアル・カーイダ（AQMI）",
+                    "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB"
+                  ]
+                }
+              ],
+              "role": ["supports"]
+            },
+            {
+              "role": ["Associated with"],
+              "object": [
+                {
+                  "notes": [
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDI.322).",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+                    "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QE.B.138.14) and Abubakar Mohammed Shekau (QI.S.322.14).",
+                    "Associated with Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” the Organization of Al- Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+                    "2012年に結成されたテロリスト・準軍事的集団であり，ナイジェリアで活動している。イスラム・マグレブ諸国のアル・カーイダ組織（AQIM）（173．に指定した団体），ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．で指定した団体）及びアブバカル・モハンメド・シェカウ（649．で指定した個人）と連携している。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "(a) Group established in 2012; (b) Operates in Nigeria. Date of designation referred to in Article 2a(4)(b): 26.6.2014",
+                    "Groupe terroriste et paramilitaire établi en 2012 et opérant au Nigéria. Associé à l'Organisation d'Al-Qaida au Maghreb islamique (AQMI), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad  (Boko Haram) et Abubakar Mohammed Shekau",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+                    "Ansarul Muslimina Fi Biladis-Sudan, also known as Ansaru, is an armed splinter group of Jama'atu Ahlis-Sunna Lidda'Awati Wal Jihad (Boko Haram) (QE.B.138.14.). Ansaru publicly announced its existence in January 2012. It has carried out terrorist attacks in Nigeria. Ansaru shares ideological similarities with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) and maintains operational connections with AQIM, including training and attack planning. The structure and leadership of Ansaru is unclear. Ansaru’s attacks typically target non-Nigerian civilians living or working in Nigeria and Nigerian security personnel. On 26 November 2012, Ansaru attacked the Nigerian Headquarters of the Special Anti-Robbery Squad, freeing many detainees. In December 2012, Ansaru claimed responsibility for kidnapping a French national stating that its motivation was linked to the planned French intervention in Mali. In January 2013, Ansaru attacked a convoy of Nigerian peacekeepers heading to Mali which resulted in the death of two Nigerian peacekeepers and wounding another seven. Ansaru again referenced the international intervention in Mali as a motivation for the attack. Seven foreign workers employed by a Lebanese-owned construction company in the Jama’are Local Government Area of Bauchi State were executed by Ansaru following a second brutal kidnapping in February 2013. Ansaru directly claimed responsibility for the kidnapping and killing."
+                  ],
+                  "name": [
+                    "أنصار المسلمین في بلاد السودان)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Ansarul Muslimina Fi Biladis Sudan",
+                    "אנצאר אלמסלמין פי בלאד אלסודאן",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "ANSARUL MUSLIMINA FI BILATIS SUDAN",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ANSARU",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "alias": [
+                    "Avant-garde pour la protection des musulmans d'Afrique noire",
+                    "VANGUARDS FOR THE PROTECTION OF MUSLIMS IN BLACK AFRICA",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN;",
+                    "Avant-gardes pour la protection des musulmans en Afrique noire",
+                    "JAMA'ATU ANSARIL MUSLIMINA FI BILADIS SUDAN",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "أنصار المسلمين في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "JAMA'ATU ANSARUL MUSLIMINA FI BILADIS-SUDAN",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "weakAlias": [
+                    "Vanguard for the Protection of Muslims in Black Africa)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "ジャマトゥ・アンサル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "アンサル",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者集団",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者",
+                    "JAMBS",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ジャマトゥ・アンサリル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "country": ["ng"],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=16364"
+                  ]
+                }
+              ]
+            }
+          ],
+          "unknownLinkFrom": [
+            {
+              "subject": [
+                {
+                  "notes": [
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDI.322).",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+                    "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QE.B.138.14) and Abubakar Mohammed Shekau (QI.S.322.14).",
+                    "Associated with Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” the Organization of Al- Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+                    "2012年に結成されたテロリスト・準軍事的集団であり，ナイジェリアで活動している。イスラム・マグレブ諸国のアル・カーイダ組織（AQIM）（173．に指定した団体），ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．で指定した団体）及びアブバカル・モハンメド・シェカウ（649．で指定した個人）と連携している。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "(a) Group established in 2012; (b) Operates in Nigeria. Date of designation referred to in Article 2a(4)(b): 26.6.2014",
+                    "Groupe terroriste et paramilitaire établi en 2012 et opérant au Nigéria. Associé à l'Organisation d'Al-Qaida au Maghreb islamique (AQMI), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad  (Boko Haram) et Abubakar Mohammed Shekau",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+                    "Ansarul Muslimina Fi Biladis-Sudan, also known as Ansaru, is an armed splinter group of Jama'atu Ahlis-Sunna Lidda'Awati Wal Jihad (Boko Haram) (QE.B.138.14.). Ansaru publicly announced its existence in January 2012. It has carried out terrorist attacks in Nigeria. Ansaru shares ideological similarities with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) and maintains operational connections with AQIM, including training and attack planning. The structure and leadership of Ansaru is unclear. Ansaru’s attacks typically target non-Nigerian civilians living or working in Nigeria and Nigerian security personnel. On 26 November 2012, Ansaru attacked the Nigerian Headquarters of the Special Anti-Robbery Squad, freeing many detainees. In December 2012, Ansaru claimed responsibility for kidnapping a French national stating that its motivation was linked to the planned French intervention in Mali. In January 2013, Ansaru attacked a convoy of Nigerian peacekeepers heading to Mali which resulted in the death of two Nigerian peacekeepers and wounding another seven. Ansaru again referenced the international intervention in Mali as a motivation for the attack. Seven foreign workers employed by a Lebanese-owned construction company in the Jama’are Local Government Area of Bauchi State were executed by Ansaru following a second brutal kidnapping in February 2013. Ansaru directly claimed responsibility for the kidnapping and killing."
+                  ],
+                  "name": [
+                    "أنصار المسلمین في بلاد السودان)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Ansarul Muslimina Fi Biladis Sudan",
+                    "אנצאר אלמסלמין פי בלאד אלסודאן",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "ANSARUL MUSLIMINA FI BILATIS SUDAN",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ANSARU",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "alias": [
+                    "Avant-garde pour la protection des musulmans d'Afrique noire",
+                    "VANGUARDS FOR THE PROTECTION OF MUSLIMS IN BLACK AFRICA",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN;",
+                    "Avant-gardes pour la protection des musulmans en Afrique noire",
+                    "JAMA'ATU ANSARIL MUSLIMINA FI BILADIS SUDAN",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "أنصار المسلمين في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "JAMA'ATU ANSARUL MUSLIMINA FI BILADIS-SUDAN",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "weakAlias": [
+                    "Vanguard for the Protection of Muslims in Black Africa)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "ジャマトゥ・アンサル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "アンサル",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者集団",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者",
+                    "JAMBS",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ジャマトゥ・アンサリル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "country": ["ng"],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=16364"
+                  ]
+                }
+              ],
+              "role": ["Associated with"]
+            },
+            {
+              "role": ["Formed in March 2015 by"],
+              "subject": [
+                {
+                  "notes": [
+                    "Associated with the Islamic State in Iraw and the Levant (listed as Al-Qaida inIraq 9QDe.115)). Formed in March 2015 by Abubakar Shekau (Qdi.322). Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Qal-Jihad (Noko Haram) (Qde.138). Committed terrorist attacks in Nigeria.",
+                    "Committed terrorist attacks in Nigeria. available.",
+                    "イラクのアル・カーイダ（453．に指定した団体）としてリストに掲載されているイラクとレバント地方のイスラム国（ISIL）と関係がある。2015年3月にアブバカル・シェカウ（649．に指定した個人）により設立された。ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．に指定した団体）の分派。ナイジェリアにおけるテロ攻撃に関与した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク："
+                  ],
+                  "alias": [
+                    "Islamic State in Iraq and the Levant - West Africa (ISIL -WA)",
+                    "Islamic State of Iraq and Syria – West Africa (ISIS-WA)",
+                    "Islamic State of Iraq and the Levant – West Africa",
+                    "Islamic State in Iraq and the Levant – West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria West Africa Province (ISISWAP)"
+                  ],
+                  "weakAlias": [
+                    "Islamic State of Iraq and the Levant-West Africa)",
+                    "Islamic State in Iraq and the Levant-West Africa(ISIL-WA)",
+                    "イラクとレバント地方のイスラム国西アフリカ(ISIL-WA)",
+                    "Islamic State of Iraq and Syria-West Africa (ISIS-WA)",
+                    "イラクとシリアのイスラム国西アフリカ(ISIS-WA)",
+                    "イラクとレバント地方のイスラム国西アフリカ",
+                    "イラクとシリアのイスラム国西アフリカ州(ISISWAP)",
+                    "Islamic State of Iraq and Syria West Africa Province(ISISWAP)"
+                  ],
+                  "topics": ["sanction"],
+                  "name": [
+                    "ISLAMIC STATE WEST AFRICA PROVINCE(ISWAP)",
+                    "Islamic State West Africa Province (ISWAP)",
+                    "イスラム国西アフリカ州(ISWAP)"
+                  ]
+                }
+              ]
+            },
+            {
+              "subject": [
+                {
+                  "name": [
+                    "ISLAMIC STATE WEST AFRICA PROVINCE",
+                    "SLAMIC STATE WEST AFRICA PROVINCE",
+                    "ISLAMIC STATE WEST AFRICA PROVINCE (ISWAP)",
+                    "الدولة الإسلامية في غرب أفريقيا",
+                    "Islamic State West Africa Province (ISWAP)",
+                    "Islamic State of Iraq and Syria – West Africa (ISIS-WA)",
+                    "Islamic State West Africa Province",
+                    "ISIS-West Africa",
+                    "Islamic State of Iraq and the Levant – West Africa",
+                    "המדינה האסלאמית פרובינציית מערב אפריקה",
+                    "Islamic State in Iraq and the Levant – West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria West Africa Province (ISISWAP)",
+                    "ISIS-WEST AFRICA"
+                  ],
+                  "alias": [
+                    "ISIS West Africa",
+                    "ISLAMIC STATE WEST AFRICA PROVINCE (ISWAP)",
+                    "Islamic State in Iraq and the Levant - West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria - West Africa (ISISWA",
+                    "Islamic State in Iraq and the Levant - West Africa (ISILWA)",
+                    "Islamic State of Iraq and Syria – West Africa",
+                    "Islamic State in West Africa",
+                    "Islamic State of Iraq and Syria — West Africa (ISIS-WA)",
+                    "Daesh’s West Africa Province",
+                    "Islamic State of Iraq and Syria – West Africa (ISIS-WA)",
+                    "Islamic State West Africa Province",
+                    "West Africa Province",
+                    "ISIL-WA.",
+                    "ISIS-WA",
+                    "Islamic State of Iraq and Syria West Africa Province (ISISWAP)",
+                    "Islamic State in Iraq and the Levant — West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria West Africa Province",
+                    "Islamic State of Iraq and the Levant – West Africa",
+                    "Islamic State in Iraq and the Levant – West Africa (ISIL-WA)",
+                    "ISWAP",
+                    "Wilayat Gharb Afriqiyya",
+                    "Wilayat Gharb Afriqiyah",
+                    "Islamic State of Iraq and the Levant-West Africa",
+                    "ISIS West Africa Province",
+                    "الدولة الإسلامية في غرب أفريقيا",
+                    "Islamic State in Iraq and the Levant – West Africa",
+                    "Islamic State of Iraq and the Levant - West Africa",
+                    "ISISWAP",
+                    "Islamic State of Iraq and Syria - West Africa (ISIS-WA)",
+                    "ISIL-WA",
+                    "ISIS-West Africa",
+                    "Islamic State of Iraq and the Levant — West Africa"
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "country": ["ng"],
+                  "notes": [
+                    "Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq). Formed in March 2015 by Abubakar Shekau. Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Committed terrorist attacks in Nigeria. Date of designation referred to in Article 7e(e): 23.02.2020.",
+                    "associé à l'État islamique d'Iraq et du Levant [inscrit sur la Liste sous le nom d'Al-Qaida en Iraq.  Constitué en mars 2015 par Abubakar Shekau. Groupe dissident de Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram).  A perpétré des attentats terroristes au Nigéria",
+                    "Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq (QDe.115)). Formed in March 2015 by Abubakar Shekau (QDi.322). Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Committed terrorist attacks in Nigeria. www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities",
+                    "Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq (QDe.115)). Formed in March 2015 by Abubakar Shekau (QDi.322). Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Committed terrorist attacks in Nigeria.",
+                    "Islamic State West Africa Province was formed in March 2015. The group’s primary objective is to replace the Nigerian Government and establish an Islamic state with a strict interpretation of Sharia Law. Islamic State West Africa Province is the largest Daesh group in Africa with approximately 3,500 – 5,000 fighters and has access to military-grade small-arms and heavy weapons. The group focuses its attacks on regional security and military targets associated with all five Multinational Joint Task Force countries (Nigeria, Niger, Chad, Cameroon, and Benin), Western, Christian, and secular targets, and has kidnapped and executed aid workers. On December 25, 2019, Islamic State West Africa Province fighters attacked Christians in Nigeria’s Borno State, and killed 8 people with machine gun fire, and captured two others. A day later, also in Borno state, a video was released of the group’s fighters executing 11 people identified as Christians.",
+                    "Committed terrorist attacks in Nigeria. available."
+                  ],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=23845",
+                    "http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx"
+                  ],
+                  "weakAlias": ["ISISWAP", "ISIL-WA", "ISIS-WA"],
+                  "incorporationDate": ["2015"]
+                }
+              ],
+              "role": ["Formed in March 2015 by"]
+            }
+          ],
+          "accuracy": "1.00"
+        }
+      ],
+      "pep": [],
+      "crime": [],
+      "debarment": [],
+      "financial_services": [],
+      "government": [],
+      "role": [],
+      "religion": [],
+      "military": [
+        {
+          "title": ["Imam", "イマーム（Imam）"],
+          "entityType": "Person",
+          "datasets": [
+            "ua_sfms_blacklist",
+            "us_trade_csl",
+            "za_fic_sanctions",
+            "ch_seco_sanctions",
+            "qa_nctc_sanctions",
+            "fr_tresor_gels_avoir",
+            "gb_hmt_sanctions",
+            "jp_mof_sanctions",
+            "eu_travel_bans",
+            "au_dfat_sanctions",
+            "be_fod_sanctions",
+            "un_sc_sanctions",
+            "ar_repet",
+            "eu_fsf",
+            "wikidata",
+            "us_ofac_sdn"
+          ],
+          "birthDate": ["1969-01-01T00:00:00.000Z", "1973-03-24T00:00:00.000Z"],
+          "firstName": [
+            "Abubakar",
+            "أبو بكر محمد الشكوى",
+            "Abubakar Shekau",
+            "Shekau",
+            "ABUBAKAR",
+            "أبو بكر",
+            "Abu"
+          ],
+          "nationality": ["ng"],
+          "notes": [
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QE.B.138.14). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks.",
+            "membre de la tribu Kanuri - description physique : yeux de couleur noire, cheveux de couleur noire - dirigeant du Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Sous la direction de Shekau, Boko Haram a été responsable d'une série d'attaques terroristes majeures",
+            "leader of a Nigerian militant group (1973-2021)",
+            "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jamaatu Ahlis Sunna LiddaAwati Wal-Jihad (Boko Haram) (QDe.138). Under Shekaus leadership, Boko Haram has been responsible for a series of major terrorist attacks. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+            "Associated with Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” and “otherwise supporting acts or activities of” Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad (Boko Haram) (QE.B.138.14) and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+            "Title: Imam. Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks.",
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+            "Under Shekau’s leadership, Boko Haram has maintained a relationship with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) for training and material support purposes. For example, Boko Haram gained valuable knowledge on the construction of improvised explosive devices from AQIM. A number of Boko Haram members fought alongside Al- Qaida-affiliated groups in Mali in 2012 and 2013 before returning to Nigeria with terrorist expertise. Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks, including a wave of bombings in Kano, Nigeria in January 2012 that killed more than 180 people in a single day. Another major attack was the 26 August 2011 bomb attack on the United Nations headquarters in Abuja that killed at least 21 people and wounded scores more. The group was also responsible for the 25 December 2011 attack on the Saint Theresa Catholic Church in Madalla, Nigeria, that killed at least 37 and wounded approximately 50. Since summer 2012 Boko Haram has undertaken a campaign of violence against Nigerian schools and students. In June 2013, the group attacked schools in Maiduguri and Damaturu, Nigeria, killing at least 22 children; in July, an attack on a school in the village of Mamudo, Nigeria, killed at least 42 people, most of them students. On 29 September 2013, Boko Haram attacked an agricultural school in Yobe, Nigeria, shooting dead 50 students in their dormitory as they slept. On 14 April 2014, Boko Haram abducted approximately 300 girls from a school in northern Nigeria. Shekau claimed responsibility for the attack in a video released by Boko Haram and threatened to sell the girls into slavery. Boko Haram militants subsequently attacked a staging base for rescuers on 5 May 2014, killing an additional 310 people. In a statement released in November 2012, Shekau expressed Boko Haram’s solidarity with Al- Qaida affiliates in Afghanistan, Iraq, North Africa, Somalia and Yemen. He also encouraged fighters across Africa and other areas to continue engaging in terrorist attacks. Shekau’s media statements have been published on known jihadist forums.",
+            "カヌリ族の一員。身体的情報：目の色及び髪の色は黒。写真はインターポール（国際刑事警察機構）･国連安全保障理事会特別手配書に含まれているものを利用可能。ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．で指定した団体）の指導者。シェカウの指導の下、ボコ・ハラムは一連の主要なテロ攻撃を実行している。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+            "Other information: (a) Physical description: eye colour: black; hair colour: black; (b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Date of designation referred to in Article 2a(4)(b): 26.6.2014.",
+            "Member of the Kanuri tribe. Physical description: eye colour: black; hair colour: black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Under Shekau’s leadership, Boko Haram has been responsible for a series of major terrorist attacks. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019"
+          ],
+          "topics": ["mil", "sanction"],
+          "weakAlias": [
+            "（a.k.a.:",
+            "Abubakar Shekau",
+            "Shekau",
+            "シェカウ",
+            "シェフ",
+            "Imam Darul Tawheed）",
+            "Shehu",
+            "アブ・モハンメド・アブバカル・ビン・モハンメド",
+            "SHEHU",
+            "アブバカル・シェカウ",
+            "Abu Mohammed Abubakar bin Mohammed",
+            "Shayku",
+            "イマーム・ダリュル・タウヒード",
+            "アブ・ムハンメド・アブバカル・ビ・モハンメド",
+            "SHAYKU",
+            "SHEKAU",
+            "シャキュ",
+            "Imam Darul Tauhid",
+            "Darul Tauhid",
+            "Imam Darul Tawheed",
+            "Darul Tawheed",
+            "Abu Muhammed Abubakar bi Mohammed"
+          ],
+          "addressEntity": [
+            {
+              "country": ["ng"],
+              "full": ["ナイジェリア"]
+            },
+            {
+              "full": ["Nigeria", "NIGERIA"],
+              "country": ["ng"]
+            }
+          ],
+          "alias": [
+            "Abu Muhammed Abubakar bi Mohammed",
+            "阿布巴卡爾·謝考",
+            "Abubakar Shekau",
+            "Shekau",
+            "Darul Akeem wa Zamunda Tawheed",
+            "أبا بكر شيكاو",
+            "Imam Abu Muhammad Ibn Muhammad Abubakar Ash Shekawi",
+            "أبو مُحمَّد أبو بكر بن مُحمَّد الشكوي",
+            "Abu Mohammed Abubakar BIN MOHAMMED",
+            "أبو بكر محمد الشكوى",
+            "أبو بكر محمد الشكوى Mohammed Shekau",
+            "ابو بکر شیکاؤ",
+            "अबुबकार सेकाउ",
+            "Shehu",
+            "أبي بكر شيكاو",
+            "Шекау, Абубакар",
+            "Abu Mohammed Abubakar bin Mohammad al-Sheikawi",
+            "আবু বকর শেকাউ",
+            "アブバカル・シェカウ",
+            "أبو بكر شكوي",
+            "Abu Mohammed Abubakar bin Mohammed",
+            "אבו בכר שקאו",
+            "Shayku",
+            "ایجاد ابوبکر شکائو",
+            "Abu Muhammed Abubakar BI MUHAMMED",
+            "아부바카르 셰카우",
+            "Imam Darul Tauhid",
+            "Darul Tawheed",
+            "Ebubekir Şekau",
+            "Imam Darul Tawheed",
+            "أبو بكر شيكاو",
+            "Абубакар Шекау"
+          ],
+          "country": ["ng"],
+          "name": [
+            "أبو بكر محمد الشكوى)",
+            "Abubakar SHEKAU",
+            "Shekau Mohammed Abubakar",
+            "Shayku",
+            "أبو بكر محمد الشكوى",
+            "Shehu",
+            "Abubakar Shekau",
+            "Shekau",
+            "アブバカル・モハンメド・シェカウ",
+            "SHEKAU, Abubakar",
+            "ABUBAKAR MOHAMMED SHEKAU",
+            "Imam Darul Tauhid",
+            "Imam Darul Tawheed",
+            "Abubakar Mohammed Shekau",
+            "Abubakar Mohammed SHEKAU",
+            "Abu Muhammed Abubakar bi Mohammed",
+            "Abu Mohammed Abubakar bin Mohammed"
+          ],
+          "position": [
+            "Leader of  Boko Haram (2009-2021)",
+            "Imam",
+            "Leader of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram)"
+          ],
+          "middleName": ["الشكوى", "SHEKAU"],
+          "secondName": ["MOHAMMED", "Mohammed", "محمد"],
+          "lastName": [
+            "BI MUHAMMED",
+            "Abubakar",
+            "ABUBAKAR  MOHAMMED SHEKAU",
+            "Shekau",
+            "SHEKAU",
+            "BIN MOHAMMED"
+          ],
+          "deathDate": ["2021-05-20"],
+          "religion": ["Islam"],
+          "fatherName": ["Shekau", "Mohammed"],
+          "birthPlace": [
+            "Shekau Village, Yobe State, Nigeria",
+            "Shekau",
+            "Village Shekau, Etat de Yobe",
+            "Shekau Village, Yobe State",
+            "Yobe State, Nigeria"
+          ],
+          "gender": ["male"],
+          "sourceUrl": [
+            "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=15009"
+          ],
+          "ethnicity": ["Kanuri people"],
+          "sanctions": [
+            {
+              "sourceUrl": ["https://repet.jus.gob.ar/"],
+              "unscId": ["QDi.322"],
+              "startDate": ["2014-06-26T00:00:00.000Z"],
+              "program": ["UN List", "Al-Qaida"],
+              "listingDate": ["2014-06-26"],
+              "authority": ["Ministry of Justice and Human Rights"],
+              "country": ["ar"]
+            },
+            {
+              "startDate": ["2020-01-30T00:00:00.000Z"],
+              "summary": ["Listed on 26 June 2014 (amended 6 Dec 2019)"],
+              "sourceUrl": [
+                "https://www.dfat.gov.au/international-relations/security/sanctions/Pages/sanctions"
+              ],
+              "country": ["au"],
+              "authority": ["Department of Foreign Affairs and Trade (DFAT)"],
+              "program": ["1267/1989/2253 (ISIL (Da'esh) and Al-Qaida)"]
+            },
+            {
+              "startDate": ["2014-07-04T00:00:00.000Z"],
+              "authority": ["Federal Public Service Finance"],
+              "sourceUrl": [
+                "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN"
+              ],
+              "listingDate": ["2014-07-04"],
+              "program": ["TAQA"],
+              "reason": ["735/2014 (OJ L198)"],
+              "country": ["be"]
+            },
+            {
+              "sourceUrl": [
+                "https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html"
+              ],
+              "program": [
+                "Ordinance of 2 October 2000 on measures against individuals and entities associated with Usama bin Laden, the group «Al-Qaïda» or the Taliban (SR 946.203), annex 2"
+              ],
+              "authority": ["State Secretariat for Economic Affairs (SECO)"],
+              "listingDate": ["2020-01-16", "2014-08-05"],
+              "startDate": [
+                "2020-01-14T00:00:00.000Z",
+                "2014-08-05T00:00:00.000Z"
+              ],
+              "country": ["ch"]
+            },
+            {
+              "reason": ["735/2014 (OJ L198)"],
+              "program": ["TAQA"],
+              "country": ["eu"],
+              "listingDate": ["2014-07-04"],
+              "sourceUrl": [
+                "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN"
+              ],
+              "authority": ["European External Action Service"],
+              "startDate": ["2014-07-04T00:00:00.000Z"]
+            },
+            {
+              "authority": ["Estonian Presidency of the Council of the EU"],
+              "country": ["eu"],
+              "reason": [
+                "Council Decision concerning restrictive measures against ISIL (Da'esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP"
+              ],
+              "sourceUrl": [
+                "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D1693-20221019"
+              ]
+            },
+            {
+              "program": [
+                "(UE) 735/2014 du 04/07/2014 (ONU Al Qaeda Etat - Islamique - règlement (UE) 881/2002)"
+              ],
+              "reason": [
+                "membre de la tribu Kanuri - description physique : yeux de couleur noire, cheveux de couleur noire - dirigeant du Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Sous la direction de Shekau, Boko Haram a été responsable d'une série d'attaques terroristes majeures"
+              ],
+              "sourceUrl": ["https://gels-avoirs.dgtresor.gouv.fr/"],
+              "authority": ["Ministry of Economy, Finance, and Recovery"],
+              "country": ["fr"]
+            },
+            {
+              "program": ["ISIL (Da'esh) and Al-Qaida"],
+              "country": ["gb"],
+              "listingDate": ["2014-07-08"],
+              "authority": [
+                "Office of Financial Sanctions Implementation",
+                "UN"
+              ],
+              "status": ["Asset Freeze Targets"],
+              "startDate": ["2014-06-26T00:00:00.000Z"],
+              "sourceUrl": [
+                "https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets"
+              ],
+              "unscId": ["QDi.322"]
+            },
+            {
+              "unscId": ["2014年6月26日（2019年12月6日に改訂）"],
+              "program": [
+                "タリバーン関係者等 （タリバーン、アル・カーイダ及びISIL（ダーイシュ）関係者等） / （注1）国連安保理決議第1267号、第1333号、第1390号、第1988号、第1989号、第2253号及び第2255号に加えて、国連安保理決議第1373号に基づく資産凍結措置の対象に指定されている個人及び団体については、告示番号の冒頭に＊印を付しています。 （注2）2021年5月28日以降の制裁対象者の追加指定につきましては、外務省告示を２回に分けて発出することとなりました。 （１回目：制裁対象者の氏名等を国連安保理が公表した英文の情報のまま発出する告示、２回目：制裁対象者の氏名等に仮名表記等を追加・修文する告示）２回目の告示発出につきましては、当シートの告示日付には反映しておりません。"
+              ],
+              "country": ["jp"],
+              "startDate": [
+                "2014-07-23T00:00:00.000Z",
+                "2020-01-31T00:00:00.000Z",
+                "2020-01-20T00:00:00.000Z"
+              ],
+              "authority": ["Ministry of Finance"],
+              "sourceUrl": [
+                "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/gaiyou.html"
+              ]
+            },
+            {
+              "authority": ["Office of Foreign Assets Control (OFAC)"],
+              "sourceUrl": [
+                "https://www.treasury.gov/resource-center/sanctions/Pages/default.aspx"
+              ],
+              "provisions": ["Block", "SDGT"],
+              "program": ["SDN List"],
+              "reason": ["Executive Order 13224 (Terrorism)"],
+              "country": ["us"]
+            },
+            {
+              "sourceUrl": [
+                "https://fiu.gov.ua/en/pages/dijalnist/protidija-terorizmu/perelik-teroristiv"
+              ],
+              "country": ["ua"],
+              "listingDate": ["2020-01-17"],
+              "authority": [
+                "Державна служба фінансового моніторингу України (Держфінмоніторинг)"
+              ],
+              "program": ["Резолюції РБ ООН 1267 (1999) та 1989 (2011)"],
+              "startDate": ["2020-01-17T00:00:00.000Z"]
+            },
+            {
+              "unscId": ["QDi.322"],
+              "startDate": ["2014-06-26T00:00:00.000Z"],
+              "sourceUrl": [
+                "https://www.un.org/securitycouncil/sanctions/information"
+              ],
+              "authority": ["United Nations Security Council (UN SC)"],
+              "program": ["Al-Qaida"],
+              "listingDate": ["2014-06-26"]
+            },
+            {
+              "authority": ["Financial Intelligence Centre (FIC)"],
+              "sourceUrl": [
+                "https://www.fic.gov.za/International/sanctions/SitePages/Home.aspx"
+              ],
+              "listingDate": ["2014-06-26"],
+              "unscId": ["QDi.322"],
+              "country": ["za"]
+            }
+          ],
+          "unknownLinkTo": [
+            {
+              "object": [
+                {
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=16363",
+                    "http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx"
+                  ],
+                  "weakAlias": [
+                    "Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad",
+                    "ボコ・ハラム",
+                    "Boko Haram",
+                    "西洋式教育は罪",
+                    "ジャマトゥ・アフルス・スンナ・リッダァワティ・ワル・ジハード",
+                    "【アラビア語】",
+                    "Jama'atu Ahlus-Sunna Lidda’Awati Wal Jihad",
+                    "جماعة أهل السنة للدعوة والجهاد",
+                    "Western Education is a Sin)"
+                  ],
+                  "alias": [
+                    "Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad",
+                    "والجھاد للدعوة السنة أھل جماعة",
+                    "جماعة أهل السنّة للدعوة والجهاد",
+                    "NIGERIAN TALIBAN",
+                    "Western Education is a Sin F.k.a.",
+                    "Boko Haram",
+                    "Western Education is a Sin",
+                    "JAMA'ATU AHLUS-SUNNAH LIDDA'AWATI WAL JIHAD",
+                    "PEOPLE COMMITTED TO THE PROPHET'S TEACHINGS FOR PROPAGATION AND JIHAD",
+                    "Jama'atu Ahlis Sunna Lidda'awati Wal-Jihad (People of the Tradition of the Prophet for Preaching and Striving / Group Committed to Propagating the Prophet's Teachings and Jihad)",
+                    "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD;",
+                    "جماعة أهل السنة للدعوة والجهاد",
+                    "Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad",
+                    "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD",
+                    "SUNNI GROUP FOR PREACHING AND JIHAD"
+                  ],
+                  "notes": [
+                    "Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau.",
+                    "Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad (Boko Haram) which in Arabic means “People Committed to the Prophet's Teachings for Propagation and Jihad” was founded in 2002 in Maiduguri, Nigeria, by the Nigerian Mohammed Yusuf (deceased) with the goal of supporting Islamic education and establishing an Islamic state in Nigeria. In 2009 the group carried out a series of attacks on police stations and other government buildings in Maiduguri, which resulted in Nigerian government raids on the group's headquarters and Yusuf's death in those raids. Since then, Boko Haram has been led by Abubakar Shekau and has embarked on a violent insurgency utilizing terrorist tactics. The group is based in north-eastern Nigeria but has also operated in Cameroon and is responsible for attacks and kidnappings in those two countries. Boko Haram has also been active in Chad and Niger.",
+                    "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+                    "Affiliate of Al-Qaida (Qde.004), and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (Qde.014). Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau.",
+                    "Other information: (a) Affiliate of Al-Qaida and the Organization of Al-Qaida in the Islamic Maghreb (AQIM), (b) Associated with and Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru), (c) The leader is Abubakar Shekau. Date of designation referred to in Article 2a(4)(b): 22.5.2014.",
+                    "Associated with Al-Qaida for participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” Al-Qaida (QE.A.4.01) and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+                    "Boko Haram is responsible for a series of major terrorist attacks, including a wave of bombings in Kano, Nigeria in Jan 2012 that killed more than 180 people in a single day. Another major attack was the Aug 26 2011 bomb attack on the United Nations headquarters in Abuja that killed at least 21 people and wounded scores more. The group was also responsible for the Dec 25 2011 attack on the Saint Theresa Catholic Church in Madalla, Nigeria, that killed at least 37 and wounded approximately 50.",
+                    "On Apr 14 2014, Boko Haram abducted approximately 300 girls from a school in northern Nigeria. Abubakar Shekau claimed responsibility for the attack in a video released by Boko Haram and threatened to sell the girls into slavery. Boko Haram militants subsequently attacked a staging base for rescuers on May 5 2014, killing an additional 310 people. In a statement released in Nov 2012, Abubakar Shekau expressed Boko Haram’s solidarity with Al-Qaida affiliates in Afghanistan, Iraq, North Africa, Somalia and Yemen. He also encouraged fighters across Africa and other areas to continue engaging in terrorist attacks. Shekau’s media statements have been published on known jihadist forums.",
+                    "Since summer 2012 Boko Haram has undertaken a campaign of violence against Nigerian schools and students. In Jun 2013, the group attacked schools in Maiduguri and Damaturu, Nigeria, killing at least 22 children; in July an attack on a school in the village of Mamudo, Nigeria killed at least 42 people, most of them students. On Sep 29 2013 Boko Haram attacked an agricultural school in Yobe, Nigeria, shooting dead 50 students in their dormitory as they slept.",
+                    "Affiliate of Al-Qaida (QDe.004), and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+                    "アル・カーイダ（166．に指定した団体）及びイスラム・マグレブ諸国のアル・カーイダ組織（AQIM）（173．に指定した団体）と関係がある。ジャマトゥ・アンサルー・ムスリミナ・フィ・ビラディス・スーダン（アンサル）と連携している。指導者はアブバカール・シェカウ。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "Boko Haram (BH) is a Salafist jihadist group operating in northern Nigeria whose ultimate objective is to overthrow the Nigerian government and implement Sharia Law. The group desires a political system in Nigeria modeled after how the Taliban ruled in Afghanistan. Its tactics include small arms attacks, the use of improvised explosive devices, suicide bombings, and kidnappings. BH conducted a suicide bomb attack against the United Nations compound in Abuja, Nigeria in August 2011, killing 23 people. In April 2014, BH kidnapped a Canadian nun and two Italian priests in Cameroon. A few days later, in Nigeria, the group kidnapped 276 schoolgirls.  In 2015, BH leader Abubakar Shekau pledged allegiance to the Islamic State and BH renamed itself the \"Islamic States West Africa Province\". However, the Islamic State appointed Abu Musab al-Barnawi as leader of Islamic States West Africa Province, resulting in the formation of two rival factions; one loyal to Shekau operating under the BH banner, and the other (Islamic States West Africa Province) led by Barnawi. During the first nine months of 2016, BH was responsible for nearly 400 deaths in Nigeria,  and  approximately 850 deaths in 2017. In many of its attacks BH used children, particularly young girls, as suicide bombers.",
+                    "Jama'atu Ahlis-Sunna Lidda’Awati Wal-Jihad (Boko Haram), que en árabe significa “Personas comprometidas con las enseñanzas del Profeta para la propagación de la Yihad”, fue fundada en 2002, en Maiduguri (Nigeria), por el nigeriano Mohammed Yusuf (muerto) con el objetivo de apoyar la educación islámica y establecer un Estado islámico en Nigeria. En 2009, el grupo perpetró una serie de atentados contra las comisarías de policía y otros edificios públicos en Maiduguri, que llevaron al Gobierno de Nigeria a lanzar ataques contra el cuartel general del grupo, en los que Yusuf resultó muerto. Desde entonces, Boko Haram ha estado dirigida por Abubakar Mohammed Shekau (QDi.322) y ha emprendido una insurgencia violenta utilizando tácticas terroristas. El grupo tiene su base en la zona nororiental de Nigeria, pero también ha operado en el Camerún y es responsable de ataques y secuestros en esos dos países. Además, Boko Haram ha llevado a cabo actividades en el Chad y el Níger. Boko Haram ha mantenido relaciones con la Organización Al-Qaida en el Magreb Islámico (AQIM) (QDe.014) con fines de adiestramiento y apoyo material. Por ejemplo, Boko Haram obtuvo de Al-Qaida en el Magreb Islámico valiosos conocimientos sobre la construcción de artefactos explosivos improvisados. Varios miembros de Boko Haram combatieron junto a grupos afiliados a Al-Qaida en Malí en 2012 y 2013, antes de regresar a Nigeria con conocimientos especializados sobre terrorismo. Boko Haram es responsable de una serie de ataques terroristas de envergadura, incluida una ola de atentados con bombas en Kano (Nigeria), en enero de 2012, que dejó un saldo de más de 180 muertos en un solo día. Otro atentado grave fue el perpetrado con explosivos el 26 de agosto de 2011 contra la sede de las Naciones Unidas en Abuja, en el que murieron al menos 21 personas y decenas más resultaron heridas. El Grupo también fue responsable del ataque lanzado el 25 de diciembre de 2011 contra la Iglesia de Santa Teresa en Madalla (Nigeria), que dejó un saldo de por lo menos 37 muertos y cerca de 50 heridos. Desde el verano de 2012, Boko Haram ha emprendido una campaña de violencia contra las escuelas y los estudiantes de Nigeria. En junio de 2013, el grupo atacó escuelas en Maiduguri y Damaturu, en Nigeria, y dio muerte a por lo menos 22 niños; en julio, un ataque contra una escuela en la aldea nigeriana de Mamudo dejó un saldo de por lo menos 42 muertos, en su mayoría estudiantes. El 29 de septiembre de 2013, Boko Haram atacó una escuela agrícola en Yobe (Nigeria) y asesinó a balazos a 50 estudiantes que dormían en su dormitorio. El 14 de abril de 2014, Boko Haram secuestró a alrededor de 300 niñas de una escuela en el norte de Nigeria. Abubakar Mohammed Shekau reivindicó la autoría de los hechos, en un vídeo publicado por Boko Haram, y amenazó con vender a las niñas como esclavas. Posteriormente, el 5 de mayo de 2014, miembros de Boko Haram atacaron una base de operaciones de personal de rescate, y dieron muerte a otras 310 personas. En una declaración dada a conocer en noviembre de 2012, Abubakar Mohammed Shekau expresó la solidaridad de Boko Haram con los afiliados de Al-Qaida en el Afganistán, el Iraq, África Septentrional, Somalia y el Yemen, y alentó a los combatientes de toda África y de otras zonas a que siguieran lanzando ataques terroristas. Las declaraciones de Shekau para los medios de difusión se han publicado en foros extremistas violentos conocidos.",
+                    "affiliée à Al-Qaida et à l'Organisation d'Al-Qaida pour le Magreb Islamique (AQMI) -- associée avec Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru) -- son dirigeant est Abubakar Shekau",
+                    "Affiliate of Al-Qaida (QDe.004), and the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). Associated with Jama'atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru). The leader is Abubakar Shekau. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+                    "Boko Haram has maintained a relationship with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) for training and material support purposes. For example, Boko Haram gained valuable knowledge on the construction of improvised explosive devices from AQIM. A number of Boko Haram members fought alongside Al-Qaida affiliated groups in Mali in 2012 and 2013 before returning to Nigeria with terrorist expertise."
+                  ],
+                  "country": ["ng"],
+                  "name": [
+                    "Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad",
+                    "جماعة أهل السنّة للدعوة والجهاد",
+                    "Boko Haram",
+                    "ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード",
+                    "Western Education is a Sin",
+                    "Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad",
+                    "ג'מאעה אהל אלסנה ללדעוה ואלג'האד",
+                    "Jama'atu ahlis sunna lidda'awati wal-jihad",
+                    "BOKO HARAM",
+                    "JAMA'ATU AHLIS SUNNA LIDDA'AWATI WAL-JIHAD",
+                    "Jama'atu Ahlus-Sunna Lidda'Awati Wal Jihad"
+                  ],
+                  "topics": ["sanction", "crime.terror"]
+                }
+              ],
+              "role": ["Leader of"]
+            },
+            {
+              "object": [
+                {
+                  "country": ["ma", "mr", "ml", "dz", "ne", "tn"],
+                  "previousName": [
+                    "Salafist Group For Call and Combat",
+                    "布教と戦闘のためのサラフィスト・グループ（ＧＳＰＣ）",
+                    "Le Groupe Salafiste pour La Prédication et le Combat (GSPC)",
+                    "布教と戦闘のためのサラフィスト・グループ",
+                    "Le Groupe Salafiste pour La Predication et le Combat GSPC"
+                  ],
+                  "alias": [
+                    "Salafist Group For Call and Combat",
+                    "Лъ Груп Салафист Пур Ла Предикасион е лъ Комба",
+                    "SALAFIST GROUP FOR PREACHING AND COMBAT",
+                    "Салафист Груп фор Кол енд Камбат/ГСПК",
+                    "Al Qaida au Maghreb islamique AQMI",
+                    "AQIM -ALQAEDA IN ISLAMIC MAGHREB",
+                    "Tanzim al-Qa´ida fi bilad al-Maghreb al-Islamiya",
+                    "Al Qaïda au Maghreb islamique AQMI",
+                    "אלקאעדה בארצות המע'רב האיסלאמי",
+                    "AL-QA'IDA IN THE ISLAMIC MAGHREB",
+                    "LE GROUPE SALAFISTE POUR LA PREDICATION ET LE COMBAT",
+                    "Groupe salafiste pour la prédication et le combat (GSPC)",
+                    "Al Qaïda au Maghreb islamique (AQMI)",
+                    "Al-Qa´ida Organisation in the Lands of the Islamic Maghreb",
+                    "Groupe salafiste pour la prédication et le combat",
+                    "Al-Qa´ida in the Lands of the Islamic Maghreb",
+                    "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB",
+                    "Le Groupe Salafiste pour La Predication et le Combat (GSPC)",
+                    "TANZIM AL-QA'IDA FI BILAD AL-MAGHRIB AL-ISLAMIYA",
+                    "Al-Qa´ida in the Islamic Maghreb",
+                    "AQIM",
+                    "תנט'ים אלקאעדה בבלאד אלמע'רב אלאסלאמי",
+                    "Le Groupe Salafiste Pour La Prediction et le Combat",
+                    "The Organization of Al-Qaida in the Islamic Maghreb",
+                    "Salafist Group for Call and Combat (GSPC)",
+                    "Al Qaida au Maghreb islamique (AQMI)",
+                    "the Salafist Group for Preaching and Combat",
+                    "تنظيم القا عدة ببلاد المغرب الاسلامي",
+                    "Tanzim Qaedat bi-Bilad al-Maghrab al-Islami",
+                    "Le Groupe Salafiste pour La Prédication et le Combat GSPC",
+                    "al-Qaïda dans les pays du Maghreb islamique",
+                    "تنظيم القاعدة ببلاد المغرب الاسلامي",
+                    "GSPC"
+                  ],
+                  "notes": [
+                    "Headed by Abdelmalek Droukdel (QDi.232). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010.",
+                    "AQIM is a militant Sunni Islamist extremist group which originated as the Groupe Islamique Armeé (Armed Islamic Group or GIA), an armed Islamist resistance movement to the secular Algerian government. In 1998, a splinter of the GIA declared its independence from the original group, believing the GIA's brutal tactics were hurting the Islamist cause. The Groupe salafiste pour la prédication et le combat (Salafist Group for Call and Combat (GSPC), as the new group named itself, gained support from the Algerian population by vowing to continue fighting the government while avoiding the indiscriminate killing of civilians. The GSPC officially merged with Al Qaida in September 2006, subsequently changing its name to Al Qaida in the Islamic Maghreb (AQIM), and announcing the name change in January 2007. AQIM is the most effective and largest extremist armed group inside Algeria. Since its merger with Al Qaida, AQIM has also adopted a global jihad ideology. The group has maintained a high operational tempo since its emergence under the name of AQIM, employing conventional terrorist tactics including guerilla-style ambushes and the use of improvised explosive devices against military personnel and truck bombs against government targets, in Algeria and West African countries. AQIM continues to kidnap Westerners and hold them for ransom in return for the release of imprisoned Islamic militants. In 2016, 29 people were killed, including 6 Canadians, in an AQIM attack on a hotel in Burkina Faso. In March 2017, AQIM's Mali-based affiliate, JNIM, was formed. On March 2, 2018, a coordinated attack by JNIM on the army headquarters and the French Embassy in Ouagadougou, Burkina Faso's capital, killed at least 8 people and wounding more than 80 others.",
+                    "Headed by Abdelmalek Droukdel (QI.D.232.07.). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 Nov 2020.",
+                    "dirigé par Abdelmalek Droukdel --  sa zone d'activité englobe l'Algérie et certaines régions du Mali, de la Mauritanie, du Niger, de la Tunisie et du Maroc",
+                    "Headed by Abdelmalek Droukdel (QDi.232). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.",
+                    "アブデルマレク・ドゥルークデル（516．に指定した個人）によって率いられる。活動地域はアルジェリア、マリの一部、モーリタニア、ニジェール、チュニジア及びモロッコ。国連安全保障理事会決議第1822号（2008年）に基づく見直しは2010年6月21日に終了した。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2020年11月24日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "Headed by Abdelmalek Droukdel (QI.D.232.07.). Zone of operation includes Algeria and parts of Mali, Mauritania, Niger, Tunisia and Morocco. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020."
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "name": [
+                    "Salafist Group for Call and Combat",
+                    "تنظيم القا عدة ببلاد المغرب الاسلامي)",
+                    "Salafist Group for Call and Combat/GSPC",
+                    "AQIM-AL QAEDA IN THE LANDS OF THE ISLAMIC MAGHREB",
+                    "Le Groupe Salafiste pour la Prédiction et le Combat",
+                    "تنظيم القاعدة في بلاد المغرب الإسلامي",
+                    "AQMI",
+                    "Grupo Salafista para la Predicación y el Combate",
+                    "SALAFIST GROUP FOR CALL AND COMBAT",
+                    "Organizația Al-Qaida în Magrebul islamic",
+                    "Al Qaïda au Maghreb islamique",
+                    "Gruppo salafista per la predicazione e il combattimento",
+                    "Οµάδα σαλαφιστών µαχητών και ιεροκηρύκων",
+                    "Al-Qaida organizācija Islama Magrebas valstīs",
+                    "אלקאעדה בארצות המגרב האיסלאמי",
+                    "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB",
+                    "Al Qaida in the Islamic Maghreb (AQIM)",
+                    "AQIM",
+                    "The Organization of Al-Qaida in the Islamic Maghreb",
+                    "AL QAIDA IN THE LAND OF THE ISLAMIC MAGHREB",
+                    "Grupo Salafista de Prédica e Combate",
+                    "イスラム・マグレブ諸国のアル・カーイダ組織",
+                    "تنظيم القا عدة ببلاد المغرب الاسلامي",
+                    "GSPC",
+                    "Organização da Al-Qaida no Magrebe Islâmico"
+                  ],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=6897",
+                    "https://www.dans.bg/images/stories/FID/Reshenie_265_MS_23042003_Spisyk_ZMFT.pdf",
+                    "http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx"
+                  ],
+                  "weakAlias": [
+                    "Al Qaïda au Maghreb islamique (AQMI))",
+                    "AQIM",
+                    "イスラム・マグレブ諸国のアル・カーイダ（AQMI）",
+                    "THE ORGANIZATION OF AL-QAIDA IN THE ISLAMIC MAGHREB"
+                  ]
+                }
+              ],
+              "role": ["supports"]
+            },
+            {
+              "role": ["Associated with"],
+              "object": [
+                {
+                  "notes": [
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDI.322).",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+                    "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QE.B.138.14) and Abubakar Mohammed Shekau (QI.S.322.14).",
+                    "Associated with Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” the Organization of Al- Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+                    "2012年に結成されたテロリスト・準軍事的集団であり，ナイジェリアで活動している。イスラム・マグレブ諸国のアル・カーイダ組織（AQIM）（173．に指定した団体），ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．で指定した団体）及びアブバカル・モハンメド・シェカウ（649．で指定した個人）と連携している。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "(a) Group established in 2012; (b) Operates in Nigeria. Date of designation referred to in Article 2a(4)(b): 26.6.2014",
+                    "Groupe terroriste et paramilitaire établi en 2012 et opérant au Nigéria. Associé à l'Organisation d'Al-Qaida au Maghreb islamique (AQMI), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad  (Boko Haram) et Abubakar Mohammed Shekau",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+                    "Ansarul Muslimina Fi Biladis-Sudan, also known as Ansaru, is an armed splinter group of Jama'atu Ahlis-Sunna Lidda'Awati Wal Jihad (Boko Haram) (QE.B.138.14.). Ansaru publicly announced its existence in January 2012. It has carried out terrorist attacks in Nigeria. Ansaru shares ideological similarities with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) and maintains operational connections with AQIM, including training and attack planning. The structure and leadership of Ansaru is unclear. Ansaru’s attacks typically target non-Nigerian civilians living or working in Nigeria and Nigerian security personnel. On 26 November 2012, Ansaru attacked the Nigerian Headquarters of the Special Anti-Robbery Squad, freeing many detainees. In December 2012, Ansaru claimed responsibility for kidnapping a French national stating that its motivation was linked to the planned French intervention in Mali. In January 2013, Ansaru attacked a convoy of Nigerian peacekeepers heading to Mali which resulted in the death of two Nigerian peacekeepers and wounding another seven. Ansaru again referenced the international intervention in Mali as a motivation for the attack. Seven foreign workers employed by a Lebanese-owned construction company in the Jama’are Local Government Area of Bauchi State were executed by Ansaru following a second brutal kidnapping in February 2013. Ansaru directly claimed responsibility for the kidnapping and killing."
+                  ],
+                  "name": [
+                    "أنصار المسلمین في بلاد السودان)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Ansarul Muslimina Fi Biladis Sudan",
+                    "אנצאר אלמסלמין פי בלאד אלסודאן",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "ANSARUL MUSLIMINA FI BILATIS SUDAN",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ANSARU",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "alias": [
+                    "Avant-garde pour la protection des musulmans d'Afrique noire",
+                    "VANGUARDS FOR THE PROTECTION OF MUSLIMS IN BLACK AFRICA",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN;",
+                    "Avant-gardes pour la protection des musulmans en Afrique noire",
+                    "JAMA'ATU ANSARIL MUSLIMINA FI BILADIS SUDAN",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "أنصار المسلمين في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "JAMA'ATU ANSARUL MUSLIMINA FI BILADIS-SUDAN",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "weakAlias": [
+                    "Vanguard for the Protection of Muslims in Black Africa)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "ジャマトゥ・アンサル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "アンサル",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者集団",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者",
+                    "JAMBS",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ジャマトゥ・アンサリル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "country": ["ng"],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=16364"
+                  ]
+                }
+              ]
+            }
+          ],
+          "unknownLinkFrom": [
+            {
+              "subject": [
+                {
+                  "notes": [
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDI.322).",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.",
+                    "Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec 2019. available.",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QE.B.138.14) and Abubakar Mohammed Shekau (QI.S.322.14).",
+                    "Associated with Al-Qaida for “participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of” the Organization of Al- Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01).",
+                    "2012年に結成されたテロリスト・準軍事的集団であり，ナイジェリアで活動している。イスラム・マグレブ諸国のアル・カーイダ組織（AQIM）（173．に指定した団体），ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．で指定した団体）及びアブバカル・モハンメド・シェカウ（649．で指定した個人）と連携している。国連安全保障理事会決議第2368号（2017年）に基づく見直しは2019年12月4日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：",
+                    "(a) Group established in 2012; (b) Operates in Nigeria. Date of designation referred to in Article 2a(4)(b): 26.6.2014",
+                    "Groupe terroriste et paramilitaire établi en 2012 et opérant au Nigéria. Associé à l'Organisation d'Al-Qaida au Maghreb islamique (AQMI), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad  (Boko Haram) et Abubakar Mohammed Shekau",
+                    "Terrorist and paramilitary group established in 2012 and operating in Nigeria. Associated with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014), Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138) and Abubakar Mohammed Shekau (QDi322). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019",
+                    "Ansarul Muslimina Fi Biladis-Sudan, also known as Ansaru, is an armed splinter group of Jama'atu Ahlis-Sunna Lidda'Awati Wal Jihad (Boko Haram) (QE.B.138.14.). Ansaru publicly announced its existence in January 2012. It has carried out terrorist attacks in Nigeria. Ansaru shares ideological similarities with the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QE.T.14.01) and maintains operational connections with AQIM, including training and attack planning. The structure and leadership of Ansaru is unclear. Ansaru’s attacks typically target non-Nigerian civilians living or working in Nigeria and Nigerian security personnel. On 26 November 2012, Ansaru attacked the Nigerian Headquarters of the Special Anti-Robbery Squad, freeing many detainees. In December 2012, Ansaru claimed responsibility for kidnapping a French national stating that its motivation was linked to the planned French intervention in Mali. In January 2013, Ansaru attacked a convoy of Nigerian peacekeepers heading to Mali which resulted in the death of two Nigerian peacekeepers and wounding another seven. Ansaru again referenced the international intervention in Mali as a motivation for the attack. Seven foreign workers employed by a Lebanese-owned construction company in the Jama’are Local Government Area of Bauchi State were executed by Ansaru following a second brutal kidnapping in February 2013. Ansaru directly claimed responsibility for the kidnapping and killing."
+                  ],
+                  "name": [
+                    "أنصار المسلمین في بلاد السودان)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Ansarul Muslimina Fi Biladis Sudan",
+                    "אנצאר אלמסלמין פי בלאד אלסודאן",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "ANSARUL MUSLIMINA FI BILATIS SUDAN",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ANSARU",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "alias": [
+                    "Avant-garde pour la protection des musulmans d'Afrique noire",
+                    "VANGUARDS FOR THE PROTECTION OF MUSLIMS IN BLACK AFRICA",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN;",
+                    "Avant-gardes pour la protection des musulmans en Afrique noire",
+                    "JAMA'ATU ANSARIL MUSLIMINA FI BILADIS SUDAN",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Vanguard for the Protection of Muslims in Black Africa",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "أنصار المسلمین في بلاد السودان",
+                    "أنصار المسلمين في بلاد السودان",
+                    "Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "JAMA'ATU ANSARUL MUSLIMINA FI BILADIS-SUDAN",
+                    "ANSARUL MUSLIMINA FI BILADIS SUDAN",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "weakAlias": [
+                    "Vanguard for the Protection of Muslims in Black Africa)",
+                    "Ansarul Muslimina fi Biladis Sudan",
+                    "ジャマトゥ・アンサル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Jama’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Jama'atu Ansaril Muslimina fi Biladis Sudan (JAMBS)",
+                    "Jamma’atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)",
+                    "Ansaru",
+                    "アンサル",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者集団",
+                    "ブラック・アフリカにおけるイスラム教徒保護のための先駆者",
+                    "JAMBS",
+                    "アンサル・ムスリミーナ・フィー・ビラーディ・スーダン",
+                    "ジャマトゥ・アンサリル・ムスリミーナ・フィー・ビラーディ・スーダン（JAMBS）",
+                    "Vanguards for the Protection of Muslims in Black Africa"
+                  ],
+                  "country": ["ng"],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=16364"
+                  ]
+                }
+              ],
+              "role": ["Associated with"]
+            },
+            {
+              "role": ["Formed in March 2015 by"],
+              "subject": [
+                {
+                  "notes": [
+                    "Associated with the Islamic State in Iraw and the Levant (listed as Al-Qaida inIraq 9QDe.115)). Formed in March 2015 by Abubakar Shekau (Qdi.322). Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Qal-Jihad (Noko Haram) (Qde.138). Committed terrorist attacks in Nigeria.",
+                    "Committed terrorist attacks in Nigeria. available.",
+                    "イラクのアル・カーイダ（453．に指定した団体）としてリストに掲載されているイラクとレバント地方のイスラム国（ISIL）と関係がある。2015年3月にアブバカル・シェカウ（649．に指定した個人）により設立された。ジャマトゥ・アフリス・スンナ・リッダァワティ・ワル・ジハード（ボコ・ハラム）（645．に指定した団体）の分派。ナイジェリアにおけるテロ攻撃に関与した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク："
+                  ],
+                  "alias": [
+                    "Islamic State in Iraq and the Levant - West Africa (ISIL -WA)",
+                    "Islamic State of Iraq and Syria – West Africa (ISIS-WA)",
+                    "Islamic State of Iraq and the Levant – West Africa",
+                    "Islamic State in Iraq and the Levant – West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria West Africa Province (ISISWAP)"
+                  ],
+                  "weakAlias": [
+                    "Islamic State of Iraq and the Levant-West Africa)",
+                    "Islamic State in Iraq and the Levant-West Africa(ISIL-WA)",
+                    "イラクとレバント地方のイスラム国西アフリカ(ISIL-WA)",
+                    "Islamic State of Iraq and Syria-West Africa (ISIS-WA)",
+                    "イラクとシリアのイスラム国西アフリカ(ISIS-WA)",
+                    "イラクとレバント地方のイスラム国西アフリカ",
+                    "イラクとシリアのイスラム国西アフリカ州(ISISWAP)",
+                    "Islamic State of Iraq and Syria West Africa Province(ISISWAP)"
+                  ],
+                  "topics": ["sanction"],
+                  "name": [
+                    "ISLAMIC STATE WEST AFRICA PROVINCE(ISWAP)",
+                    "Islamic State West Africa Province (ISWAP)",
+                    "イスラム国西アフリカ州(ISWAP)"
+                  ]
+                }
+              ]
+            },
+            {
+              "subject": [
+                {
+                  "name": [
+                    "ISLAMIC STATE WEST AFRICA PROVINCE",
+                    "SLAMIC STATE WEST AFRICA PROVINCE",
+                    "ISLAMIC STATE WEST AFRICA PROVINCE (ISWAP)",
+                    "الدولة الإسلامية في غرب أفريقيا",
+                    "Islamic State West Africa Province (ISWAP)",
+                    "Islamic State of Iraq and Syria – West Africa (ISIS-WA)",
+                    "Islamic State West Africa Province",
+                    "ISIS-West Africa",
+                    "Islamic State of Iraq and the Levant – West Africa",
+                    "המדינה האסלאמית פרובינציית מערב אפריקה",
+                    "Islamic State in Iraq and the Levant – West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria West Africa Province (ISISWAP)",
+                    "ISIS-WEST AFRICA"
+                  ],
+                  "alias": [
+                    "ISIS West Africa",
+                    "ISLAMIC STATE WEST AFRICA PROVINCE (ISWAP)",
+                    "Islamic State in Iraq and the Levant - West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria - West Africa (ISISWA",
+                    "Islamic State in Iraq and the Levant - West Africa (ISILWA)",
+                    "Islamic State of Iraq and Syria – West Africa",
+                    "Islamic State in West Africa",
+                    "Islamic State of Iraq and Syria — West Africa (ISIS-WA)",
+                    "Daesh’s West Africa Province",
+                    "Islamic State of Iraq and Syria – West Africa (ISIS-WA)",
+                    "Islamic State West Africa Province",
+                    "West Africa Province",
+                    "ISIL-WA.",
+                    "ISIS-WA",
+                    "Islamic State of Iraq and Syria West Africa Province (ISISWAP)",
+                    "Islamic State in Iraq and the Levant — West Africa (ISIL-WA)",
+                    "Islamic State of Iraq and Syria West Africa Province",
+                    "Islamic State of Iraq and the Levant – West Africa",
+                    "Islamic State in Iraq and the Levant – West Africa (ISIL-WA)",
+                    "ISWAP",
+                    "Wilayat Gharb Afriqiyya",
+                    "Wilayat Gharb Afriqiyah",
+                    "Islamic State of Iraq and the Levant-West Africa",
+                    "ISIS West Africa Province",
+                    "الدولة الإسلامية في غرب أفريقيا",
+                    "Islamic State in Iraq and the Levant – West Africa",
+                    "Islamic State of Iraq and the Levant - West Africa",
+                    "ISISWAP",
+                    "Islamic State of Iraq and Syria - West Africa (ISIS-WA)",
+                    "ISIL-WA",
+                    "ISIS-West Africa",
+                    "Islamic State of Iraq and the Levant — West Africa"
+                  ],
+                  "topics": ["sanction", "crime.terror"],
+                  "country": ["ng"],
+                  "notes": [
+                    "Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq). Formed in March 2015 by Abubakar Shekau. Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram). Committed terrorist attacks in Nigeria. Date of designation referred to in Article 7e(e): 23.02.2020.",
+                    "associé à l'État islamique d'Iraq et du Levant [inscrit sur la Liste sous le nom d'Al-Qaida en Iraq.  Constitué en mars 2015 par Abubakar Shekau. Groupe dissident de Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram).  A perpétré des attentats terroristes au Nigéria",
+                    "Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq (QDe.115)). Formed in March 2015 by Abubakar Shekau (QDi.322). Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Committed terrorist attacks in Nigeria. www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities",
+                    "Associated with the Islamic State in Iraq and the Levant (listed as Al-Qaida in Iraq (QDe.115)). Formed in March 2015 by Abubakar Shekau (QDi.322). Splinter group of Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad (Boko Haram) (QDe.138). Committed terrorist attacks in Nigeria.",
+                    "Islamic State West Africa Province was formed in March 2015. The group’s primary objective is to replace the Nigerian Government and establish an Islamic state with a strict interpretation of Sharia Law. Islamic State West Africa Province is the largest Daesh group in Africa with approximately 3,500 – 5,000 fighters and has access to military-grade small-arms and heavy weapons. The group focuses its attacks on regional security and military targets associated with all five Multinational Joint Task Force countries (Nigeria, Niger, Chad, Cameroon, and Benin), Western, Christian, and secular targets, and has kidnapped and executed aid workers. On December 25, 2019, Islamic State West Africa Province fighters attacked Christians in Nigeria’s Borno State, and killed 8 people with machine gun fire, and captured two others. A day later, also in Borno state, a video was released of the group’s fighters executing 11 people identified as Christians.",
+                    "Committed terrorist attacks in Nigeria. available."
+                  ],
+                  "sourceUrl": [
+                    "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=23845",
+                    "http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx"
+                  ],
+                  "weakAlias": ["ISISWAP", "ISIL-WA", "ISIS-WA"],
+                  "incorporationDate": ["2015"]
+                }
+              ],
+              "role": ["Formed in March 2015 by"]
+            }
+          ],
+          "accuracy": "1.00"
+        }
+      ],
+      "frozen_asset": [],
+      "personOfInterest": [],
+      "totalEntity": 2,
+      "categoryCount": {
+        "sanctions": 1,
+        "pep": 0,
+        "crime": 0,
+        "debarment": 0,
+        "financial_services": 0,
+        "government": 0,
+        "role": 0,
+        "religion": 0,
+        "military": 1,
+        "frozen_asset": 0,
+        "personOfInterest": 0
+      },
+      "queriedWith": "Name",
+      "query": "Shekau",
+      "businessId": "628b38f03ae28a14f52d4bf7",
+      "requestedAt": "2023-10-19T06:15:41.516Z",
+      "requestedById": "628b38f03ae28a5a122d4bf3",
+      "createdAt": "2023-10-19T06:15:41.755Z",
+      "lastModifiedAt": "2023-10-19T06:15:41.755Z",
+      "_createdAt": "2023-10-19T07:15:4141+01:00",
+      "_lastModifiedAt": "2023-10-19T07:15:4141+01:00",
+      "id": "6530c98c66d2c6b316fdb4c8",
+      "requestedBy": {
+        "firstName": "API",
+        "lastName": "User",
+        "middleName": "",
+        "id": "628b38f03ae28a5a122d4bf3"
+      }
+    },
+    "links": []
+  },
+  "idResponse": {
+    "success": true,
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "status": "review_required",
+        "parentId": null,
+        "isSubjectConsent": true,
+        "type": "individual",
+        "sanctions": [],
+        "pep": [
+            {
+                "title": [
+                    "MUHAMMED GUDAJI"
+                ],
+                "entityType": "Person",
+                "datasets": [
+                    "wd_peps",
+                    "wikidata",
+                    "everypolitician"
+                ],
+                "gender": [
+                    "male"
+                ],
+                "position": [
+                    "member of the House of Representatives of Nigeria",
+                    "member of the House of Representatives of Nigeria (2019-)",
+                    "House of Representatives (member, 2015-)"
+                ],
+                "topics": [
+                    "role.pep"
+                ],
+                "birthDate": [
+                    "1972-01-01T00:00:00.000Z"
+                ],
+                "alias": [
+                    "Muhammed Gudaji",
+                    "Muhammad Aliyu Gudaji",
+                    "MUHAMMED KAZAURE GUDAJI",
+                    "Muhammed Kazaure Gudaji",
+                    "Muhammed Gudaji Kazaure"
+                ],
+                "keywords": [
+                    "National government"
+                ],
+                "country": [
+                    "ng"
+                ],
+                "nationality": [
+                    "ng"
+                ],
+                "notes": [
+                    "Nigerian politician"
+                ],
+                "name": [
+                    "Muhammed Gudaji",
+                    "MUHAMMED GUDAJI"
+                ],
+                "phone": [
+                    "+2347037730852"
+                ],
+                "positionOccupancies": [
+                    {
+                        "post": [
+                            {
+                                "country": [
+                                    "ng"
+                                ],
+                                "name": [
+                                    "member of the House of Representatives of Nigeria"
+                                ]
+                            }
+                        ],
+                        "status": [
+                            "ended"
+                        ],
+                        "startDate": [
+                            "2019-06-11T00:00:00.000Z"
+                        ],
+                        "endDate": [
+                            "2023-06-11T00:00:00.000Z"
+                        ]
+                    },
+                    {
+                        "post": [
+                            {
+                                "country": [
+                                    "ng"
+                                ],
+                                "name": [
+                                    "member of the House of Representatives of Nigeria"
+                                ]
+                            }
+                        ],
+                        "status": [
+                            "ended"
+                        ],
+                        "endDate": [
+                            "2019-06-09T00:00:00.000Z"
+                        ],
+                        "startDate": [
+                            "2015-06-09T00:00:00.000Z"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "crime": [],
+        "debarment": [],
+        "financial_services": [],
+        "government": [],
+        "role": [],
+        "religion": [],
+        "military": [],
+        "frozen_asset": [],
+        "personOfInterest": [],
+        "totalEntity": 1,
+        "categoryCount": {
+            "sanctions": 0,
+            "pep": 1,
+            "crime": 0,
+            "debarment": 0,
+            "financial_services": 0,
+            "government": 0,
+            "role": 0,
+            "religion": 0,
+            "military": 0,
+            "frozen_asset": 0,
+            "personOfInterest": 0
+        },
+        "queriedWith": "Identity Number",
+        "query": "+2347037730852",
+        "businessId": "6222a5ed3e7a41c29c031ecc",
+        "requestedAt": "2023-09-21T07:18:47.482Z",
+        "requestedById": "6222a5ed3e7a41c29c031ece",
+        "createdAt": "2023-09-21T07:18:47.572Z",
+        "lastModifiedAt": "2023-09-21T07:18:47.572Z",
+        "_createdAt": "2023-09-21T07:18:4747+00:00",
+        "_lastModifiedAt": "2023-09-21T07:18:4747+00:00",
+        "id": "650bee57b5646f3c2c54a979",
+        "requestedBy": {
+            "firstName": "API",
+            "lastName": "User",
+            "middleName": "",
+            "id": "6222a5ed3e7a41c29c031ece"
+        }
+    },
+    "links": []
+  }
+}

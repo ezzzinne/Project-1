@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Full Result</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .page-header { display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom: 12px; flex-wrap: wrap; }
+    .page-header > div { display:flex; gap:8px; }
+    .summary { display:grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px 16px; margin: 10px 0 16px; }
+    .summary .kv b { min-width: 140px; }
+    @media (max-width: 640px) {
+      .summary { grid-template-columns: 1fr; }
+      .page-header { flex-direction: column; align-items: stretch; gap: 8px; }
+      .page-header > div { flex-direction: column; width: 100%; }
+      .page-header .btn { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <h2>Full Result</h2>
+    <div>
+      <button id="back-btn" class="btn">Back to Search</button>
+      <button id="download-json" class="btn btn-primary">Download Result</button>
+    </div>
+  </div>
+
+  <section id="full-result">
+    <div id="full-result-summary" class="summary"></div>
+    <div class="results-table-wrapper">
+      <table id="full-result-table" class="results-table">
+        <thead>
+          <tr>
+            <th>Field</th>
+            <th>Value</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <script src="results.js"></script>
+</body>
+</html>

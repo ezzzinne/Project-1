@@ -160,10 +160,26 @@
         <section id="search-section" class="search">
             <button type="button" class="search-btn" id="search">Search</button>
         </section>
-    
-        <!-- Results Section -->
-        
+        <section id="results" class="results">
+
+        </section>
     </section>
+    
+    <!-- Overlay and Sidebar for detailed view -->
+    <div id="sidebar-overlay" class="overlay" aria-hidden="true"></div>
+    <aside id="detail-sidebar" class="offcanvas" aria-hidden="true" role="dialog" aria-labelledby="sidebar-title">
+        <div class="sidebar-header">
+            <h3 id="sidebar-title">Details</h3>
+            <button type="button" id="sidebar-close" class="btn btn-close" aria-label="Close">&times;</button>
+        </div>
+        <div id="sidebar-content" class="sidebar-content">
+            <!-- Filled dynamically -->
+        </div>
+        <div class="sidebar-actions">
+            <button type="button" id="sidebar-open-full" class="btn btn-secondary">Open Full Result</button>
+            <button type="button" id="sidebar-download" class="btn btn-primary">Download</button>
+        </div>
+    </aside>
     <script src="index.js"></script>
 </body>
 </html>
